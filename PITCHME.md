@@ -101,7 +101,7 @@ Mais en continuité des différents concepts associés à la quantification : co
 
 ---
 
-### Open Data & Santé : une entrée par les acteurs
+### Open Data & Santé :
 
 La Santé : domaine d'étude pour cette présentation
 
@@ -109,13 +109,11 @@ La Santé : domaine d'étude pour cette présentation
 
 +++
 
-### Open Data & Santé : une entrée par les acteurs
+### Open Data & Santé : une entrée par les acteurs pour :
 
 
-Une entrée par les acteurs pour :
-
-- Comprendre les processus en jeu dans l'ouverture des données de santé
-- observer les dynamiques en cours entre les différentes parties prenantes provenant à la fois de la sphère publique et privée ;
+- Comprendre les processus en jeu dans l'ouverture des données de santé ;
+- observer les dynamiques en cours entre les différentes parties prenantes provenant à la fois de la sphère publique et privée.
 
 ---
 
@@ -125,7 +123,17 @@ Une entrée par les acteurs pour :
 - 1/ **Ouverture de données publiques de santé** (SNIIRAM-DAMIR) ==> place des acteurs privés et redéfinition de leur rôle dans un espace préexistant ;
 - 2/ **Épidemium :Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif interstitiel.
 
-Approche exploratoire et embarquée : participation à des réunions, lecture de rapport livre blanc, suivi de listes de discussions, échanges avec les acteurs concernés…
++++
+
+### Open Data & Santé : approche exploratoire et embarquée
+
+
+Observation participante :
+
+- Participation à des réunions, meetup, etc.
+- lecture de rapports, livre blanc ;
+- suivi de listes de discussions ;
+- échanges avec les acteurs impliqués.
 
 ---
 
@@ -143,9 +151,13 @@ Approche exploratoire et embarquée : participation à des réunions, lecture de
 
 ### Open Data & Santé : Cadre théorique (2)
 
-Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
+##### Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 
-- *Datafication* et reconfiguration de collectifs en science (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016),
-- institutionnalisation de pratiques numériques (Lhoste et Barbier, 2016) ,
-- administration publique et brutification des données (Denis et Goeta, 2013)
-- politiques de l'ouverture en santé (Briatte et Goëta, 2014).
+  - *Datafication* et reconfiguration de collectifs en science (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016),
+  - institutionnalisation de pratiques numériques (Lhoste et Barbier, 2016) ,
+  - administration publique et brutification des données (Denis et Goeta, 2013)
+  - politiques de l'ouverture en santé (Briatte et Goëta, 2014).
+
+---
+
+##
