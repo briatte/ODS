@@ -41,7 +41,8 @@ Passage des qualificatifs de :
 +++
 
 <span style="font-size:0.5em; color:gray">*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
-![Data.gouv.fr](./img/data_gouv.png)
+
+<img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 600px;"/>
 
 
 
@@ -49,7 +50,7 @@ Passage des qualificatifs de :
 
 <span style="font-size:0.5em; color:gray">*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
-![Roche_bigdata](./img/roche_bigdata.png)
+<img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 600px;"/>
 
 
 
@@ -66,16 +67,14 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 <span style="font-size:0.5em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-![Epidemium](./img/epidemium_flot.png)
-
+<img src="./img/epidemium_flot.png" alt="Epidemium" style="width: 600px;"/>
 
 
 +++
 
 <span style="font-size:0.5em; color:gray"> *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-![Epidemium_communauté](./img/epidemium_open.png)
-
+<img src="./img/epidemium_open.png" alt="Epidemium_communauté" style="width: 600px;"/>
 
 
 ---
@@ -92,7 +91,8 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 <span style="font-size:0.5em; color:gray">*[Infographie Roche : La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*</span>
 
-![Roche_infographie](./img/roche_infographie.png)
+<img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 600px;"/>
+
 
 ---
 ### Imaginaire numérique et *data*
@@ -122,7 +122,7 @@ La Santé : domaine d'étude pour cette présentation
 
 1/ **Ouverture de données publiques de santé** (SNIIRAM-DAMIR) ==> place des acteurs privés et redéfinition de leur rôle dans un espace préexistant ;
 
-2/ **Épidemium : Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif interstitiel.
+2/ **Épidemium : Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
 
 +++
 
@@ -142,20 +142,20 @@ Observation participante :
 
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
-<span style="font-size:0.7em"> - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
+- De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre ; (Ogien, 2010)
 
 
 +++
 
-Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+### Open Data & Santé : Cadre théorique (1)
 
-<span style="font-size:0.7em"> - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations.  (Schlierf et Meyer, 2013) ; </span>
+- de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations ;  (Schlierf et Meyer, 2013)
 
 +++
 
-Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+### Open Data & Santé : Cadre théorique (1)
 
- <span style="font-size:0.7em"> - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires. (Briatte, 2011, 2013; Hunsmann, 2016) </span>
+- et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires. (Briatte, 2011, 2013; Hunsmann, 2016)
 
 ---
 
@@ -163,17 +163,20 @@ Observation participante :
 
 Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 
-  - *Datafication* et reconfiguration de collectifs en science (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016),
-  - institutionnalisation de pratiques numériques (Lhoste et Barbier, 2016) ,
+  - *Datafication* et reconfiguration de collectifs en science ; (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016)
+  - institutionnalisation de pratiques numériques ; (Lhoste et Barbier, 2016)
 
 +++
 
-  - administration publique et brutification des données (Denis et Goeta, 2013)
-  - politiques de l'ouverture en santé (Briatte et Goëta, 2014).
+### Open Data & Santé : Cadre théorique (2)
+
+
+  - administration publique et brutification des données ; (Denis et Goeta, 2013)
+  - politiques de l'ouverture en santé. (Briatte et Goëta, 2014).
 
 ---
 
-## Cas d’étude 1 : place des acteurs privés dans l'ouverture des données publiques de santé
+### Cas d’étude 1 : place des acteurs privés dans l'ouverture des données publiques de santé
 
 Error F~B
 
@@ -181,9 +184,11 @@ Error F~B
 
 ### Cas d’étude 2 : Open Data en épidémiologie du cancer : le projet de recherche Epidemium
 
-<span style="font-size:0.5em; color:gray">*[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
+<span style="font-size:0.5em; color:gray">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
-![Epidemium_Home](./img/epidemium_home.png)
+
+<img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 600px;"/>
+
 
 ---
 
