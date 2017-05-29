@@ -5,7 +5,7 @@
 
 Co-production de chiffres publics
 
-*Journée d’études 31 mai 2017*
+*Journée d’étude 31 mai 2017*
 
 
 +++
@@ -140,9 +140,30 @@ Observation participante :
 
 ### Open Data & Santé : Cadre théorique (1)
 
+Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+
+  - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
+
++++
+
+Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+
+  - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)
+
++++
+
+Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+
+ - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)
+
+---
+
+### Open Data & Santé : Cadre théorique (1)
+
 <span style="font-size:0.9em"> Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères</span>
 
   <span style="font-size:0.7em"> - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
+
 
   <span style="font-size:0.7em"> - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)</span>
 
@@ -156,6 +177,9 @@ Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 
   - *Datafication* et reconfiguration de collectifs en science (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016),
   - institutionnalisation de pratiques numériques (Lhoste et Barbier, 2016) ,
+
++++
+
   - administration publique et brutification des données (Denis et Goeta, 2013)
   - politiques de l'ouverture en santé (Briatte et Goëta, 2014).
 
@@ -164,6 +188,8 @@ Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 ## Cas d’étude 1 : place des acteurs privés dans l'ouverture des données publiques de santé
 
 Error F~B
+
+---
 
 ## Cas d’étude 2 : Open Data en épidémiologie du cancer : le projet de recherche Epidemium
 
@@ -177,7 +203,8 @@ Error F~B
 
 <span style="font-size:0.5em; color:gray">*[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
 
-![Communiqué de presse Epidemium](./img/cp_epidemium_2015.png)
+<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 450px;"/>
+
 
 ***
 
@@ -205,3 +232,6 @@ Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 - mise en place de normes, d'insfrastructures, langage commmun (jeux d’ inter-médiations)
 
 ==> co-production de la data et construction des modalités même de l’ouverture.
+
+
+![Communiqué de presse Epidemium](./img/cp_epidemium_2015.png)
