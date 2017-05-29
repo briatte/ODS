@@ -120,8 +120,9 @@ La Santé : domaine d'étude pour cette présentation
 ### Open Data & Santé : deux cas d'étude
 
 
-- 1/ **Ouverture de données publiques de santé** (SNIIRAM-DAMIR) ==> place des acteurs privés et redéfinition de leur rôle dans un espace préexistant ;
-- 2/ **Épidemium :Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif interstitiel.
+1/ **Ouverture de données publiques de santé** (SNIIRAM-DAMIR) ==> place des acteurs privés et redéfinition de leur rôle dans un espace préexistant ;
+
+2/ **Épidemium : Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif interstitiel.
 
 +++
 
@@ -139,19 +140,26 @@ Observation participante :
 
 ### Open Data & Santé : Cadre théorique (1)
 
+<span style="font-size:0.5">
+
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
-- De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;
+  - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;
 
-- de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)
+  - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)
 
-- et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)
+  - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)
+
+</span>
+
+
+
 
 +++
 
 ### Open Data & Santé : Cadre théorique (2)
 
-##### Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
+Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 
   - *Datafication* et reconfiguration de collectifs en science (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016),
   - institutionnalisation de pratiques numériques (Lhoste et Barbier, 2016) ,
