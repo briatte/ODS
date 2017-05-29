@@ -14,6 +14,7 @@ Co-production de chiffres publics
 
 - Célya Gruson-Daniel : Centre Virchow-Villermé de santé publique Paris-Berlin, Université de Technologie de Compiègne (Costech), Université de Laval-Québec (LabCMO) [celya.gruson-daniel@parisdescartes.fr](celya.gruson-daniel@parisdescartes.fr)
 
+---
 
 ### Des chiffres à la *data*
 
@@ -34,8 +35,8 @@ Passage des notions de :
 
 Passage des qualificatifs de :  
 
-- publics/ privés  : open, intérêt général, sensibles, personnelles
-- mais aussi big, smart, utile...
+- publics/ privés  : *open*, données ouvertes, d'intérêt général, sensibles, personnelles
+- mais aussi *big*, *smart*, utile...
 
 +++
 
@@ -48,8 +49,22 @@ Passage des qualificatifs de :
 
 *[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*
 
---- 
+---
 
 ### Imaginaire numérique et *data*
 
+Horizons d’attentes fortes autour de ce « monde des données » d’un point de vue :
+
+- économique, social, scientifique, politique dans de nombreux domaines (effet "pervasif" du numérique *(Boullier, 2016)*
+- associés à un imaginaire numérique : idéal du partage, de la transparence, de la collaboration *(Gruson-Daniel et al. 2016; Ibekwe-Sanjuan et al., 2015; Turner, 2012)*
+
++++
+
 ![Epidemium](./img/epidemium_flot.png)
+
+*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*
++++
+
+![Roche_infographie](./img/roche_infographie.png)
+
+*[Infographie Roche : La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*
