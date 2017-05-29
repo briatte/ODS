@@ -28,6 +28,8 @@ Passage des notions de :
 
 *[site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*
 
+---
+
 ### Des chiffres à la *data*
 
 Passage des qualificatifs de :  
@@ -46,6 +48,7 @@ Passage des qualificatifs de :
 
 *[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*
 
+--- 
 
 ### Imaginaire numérique et *data*
 
