@@ -44,12 +44,12 @@ Passage des qualificatifs de :
 
 ![Data.gouv.fr](./img/data_gouv.png)
 
-*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*
+<span style="font-size:0.6em; color:gray">*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
 
 +++
 ![Roche_bigdata](./img/roche_bigdata.png)
 
-*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*
+<span style="font-size:0.6em; color:gray">*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
 ---
 
@@ -64,13 +64,13 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 ![Epidemium](./img/epidemium_flot.png)
 
-*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*
+<span style="font-size:0.6em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
 +++
 
 ![Epidemium_communauté](./img/epidemium_open.png)
 
-*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*
+<span style="font-size:0.6em; color:gray"> |*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
 ---
 ### Imaginaire numérique et *data*
@@ -84,4 +84,4 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 ![Roche_infographie](./img/roche_infographie.png)
 
-*[Infographie Roche : La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*
+<span style="font-size:0.6em; color:gray">*[Infographie Roche : La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*</span>
