@@ -187,34 +187,34 @@ Error F~B
 <span style="font-size:0.5em; color:gray">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
 
-<img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 600px;"/>
+<img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 800px;"/>
 
 
 ---
 
-### 1/ Un renouvellement des rhétoriques de la promesse
+#### 1/ Un renouvellement des rhétoriques de la promesse
 
 <span style="font-size:0.5em; color:gray">[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
 
-<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 600px;"/>
+<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 800px;"/>
 
 
 +++
 
-### 1/ Un renouvellement des rhétoriques de la promesse  
+#### 1/ Un renouvellement des rhétoriques de la promesse  
 
-*open big data* : une nouvelle rhétorique de la promesse à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015; Novas, 2006)</span>  
+*Open big data* : une nouvelle rhétorique de la promesse à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015; Novas, 2006)</span>  
 
 ==> une nécessité d'articuler des acteurs aux intérêts divers (progrès scientifique et thérapeutique, logique économique, etc.)
 
 
 ---
 
-### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
+#### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
 *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-![Epidemium-frontière](./img/epidemium_frontiere.png)
+<img src="./img/epidemium_frontiere.png" alt="Epidemium-frontière" style="width: 800px;"/>
 
 +++
 
@@ -224,7 +224,4 @@ Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 - des institutions privées, publiques
 - mise en place de normes, d'insfrastructures, langage commmun (jeux d’ inter-médiations)
 
-==> co-production de la data et construction des modalités même de l’ouverture.
-
-
-![Communiqué de presse Epidemium](./img/cp_epidemium_2015.png)
+==> co-production de la *data* et construction des modalités même de l’ouverture.
