@@ -140,15 +140,15 @@ Observation participante :
 
 ### Open Data & Santé : Cadre théorique (1)
 
-<span style="font-size:1.em"> Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères
+<span style="font-size:0.9em"> Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères</span>
 
-  - <span style="font-size:0.9em">De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;
+  - <span style="font-size:0.6em">De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
 
-  - <span style="font-size:0.9em">de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)
+  - <span style="font-size:0.9em">de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)</span>
 
-  - <span style="font-size:0.9em">et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)
+  - <span style="font-size:0.9em">et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)</span>
 
-</span>
+
 
 
 
