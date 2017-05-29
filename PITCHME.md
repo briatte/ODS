@@ -115,7 +115,7 @@ Mais en continuité des différents concepts associés à la quantification : co
 
 +++
 
-<span style="font-size:0.5em; color:gray">[Site CADA.fr](http://www.cada.fr/</span>
+<span style="font-size:0.5em; color:gray">[Site CADA.fr](http://www.cada.fr/)</span>
 
 <img src="./img/cada.png" alt="Site CADA.fr" style="width: 600px;"/>
 
@@ -148,22 +148,18 @@ Ouverture d'autres données revendiquées :
 
 +++
 
-On peut rajouter aussi :
-
-- Les données du « soi quantifié » issues des applis e-santé/m-mobile souvent détenues par des start-up ou acteurs majeurs du Web. ==>
-⇒ un sujet de préoccupation pour la CNIL.
-
- Le cahier prospectif de la CNIL est une des illustrations de l’intérêt porté sur ce sujet :
+On peut rajouter aussi les données du « soi quantifié » issues des applis e-santé/m-mobile souvent détenues par des start-up ou acteurs majeurs du Web.
 
  <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 600px;"/>
+ <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 400px;"/>
 
 +++
 
 
 ⇒ Qu'est-ce qui est privé / public ? Qu'est-ce que signifie « ouvrir des données » ? Quels rôles pour de nouveaux acteurs (régulation, détenteur de données sur Internet , etc.)?
 
+---
 
 ### Open Data & Santé : une entrée par les acteurs
 
