@@ -42,7 +42,7 @@ Passage des qualificatifs de :
 
 <span style="font-size:0.5em; color:gray">*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
 
-<img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 600px;"/>
+<img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 900px;"/>
 
 
 
@@ -50,7 +50,7 @@ Passage des qualificatifs de :
 
 <span style="font-size:0.5em; color:gray">*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
-<img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 600px;"/>
+<img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 900px;"/>
 
 
 
@@ -67,14 +67,14 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 <span style="font-size:0.5em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-<img src="./img/epidemium_flot.png" alt="Epidemium" style="width: 600px;"/>
+<img src="./img/epidemium_flot.png" alt="Epidemium" style="width: 900px;"/>
 
 
 +++
 
 <span style="font-size:0.5em; color:gray"> *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-<img src="./img/epidemium_open.png" alt="Epidemium_communauté" style="width: 600px;"/>
+<img src="./img/epidemium_open.png" alt="Epidemium_communauté" style="width: 900px;"/>
 
 
 ---
@@ -91,7 +91,7 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 <span style="font-size:0.5em; color:gray">*[Infographie Roche : La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*</span>
 
-<img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 600px;"/>
+<img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 900px;"/>
 
 
 ---
@@ -187,7 +187,7 @@ Error F~B
 <span style="font-size:0.5em; color:gray">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
 
-<img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 800px;"/>
+<img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 600px;"/>
 
 
 ---
@@ -196,7 +196,7 @@ Error F~B
 
 <span style="font-size:0.5em; color:gray">[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
 
-<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 800px;"/>
+<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 600px;"/>
 
 
 +++
@@ -212,16 +212,64 @@ Error F~B
 
 #### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
-*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
+<span style="font-size:0.5em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
-<img src="./img/epidemium_frontiere.png" alt="Epidemium-frontière" style="width: 800px;"/>
+<img src="./img/epidemium_frontiere.png" alt="Epidemium-frontière" style="width: 400px;"/>
 
 +++
 
-### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
+#### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
 Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 - des institutions privées, publiques
 - mise en place de normes, d'insfrastructures, langage commmun (jeux d’ inter-médiations)
 
 ==> co-production de la *data* et construction des modalités même de l’ouverture.
+
+#### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
+
+
+Qu’entend-on par *open big data* ? Une définition commune à trouver :
+
++++
+
+#### Différentes conceptions de la *data* :
+
+- données personnelles (pour le médecin), données (compte à rendre à la communautés), données à anonymiser ou à “fausser “(*fake data*).
+==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
+
+- démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
+
++++
+
+#### Diverses conceptions de l’*open* :
+
+D’un accès  « maitrisé »  à un libre accès : un gradient possible de l’ouverture :
+
+  - mise à disposition restreinte avec infrastructure sécurisée ( ex : INDS )
+  vs
+  - ouverture et réutilisation libre par n’importe qui en favorisant également l’accessibilité de ses données (c’est à dire compréhension des jeux de données).
+
+#### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
+
+
+#### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
+
+- Processus de **régulation juridique** : mise en conformité avec la CNIL, mise en place de mesure de simplification pour ouvrir les données.
+
+- Processus **techniques** reposant sur des algorithmes : réponse aux attentes des différentes parties prenantes (degré d’ouverture, qualité, sécurité ) ex : notion de données synthétiques / *fake data*
+
++++
+
+#### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
+
+
+Deux axes proposées autour de l’ouverture des données pour articuler les différents enjeux sociaux, politiques, éthiques, scientifiques :
+
+  - D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
+
+  - d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique :  (suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
+
+
+
+« monde des données » 
