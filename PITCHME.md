@@ -142,34 +142,22 @@ Observation participante :
 
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
-  - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
+<span style="font-size:0.7em"> - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
+
 
 +++
 
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
-  - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)
+<span style="font-size:0.7em"> - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations.  (Schlierf et Meyer, 2013) ; </span>
 
 +++
 
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
- - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)
+ <span style="font-size:0.7em"> - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires. (Briatte, 2011, 2013; Hunsmann, 2016) </span>
 
 ---
-
-### Open Data & Santé : Cadre théorique (1)
-
-<span style="font-size:0.9em"> Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères</span>
-
-  <span style="font-size:0.7em"> - De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre (Ogien, 2010) ;</span>
-
-
-  <span style="font-size:0.7em"> - de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations  (Schlierf et Meyer, 2013)</span>
-
-  <span style="font-size:0.7em"> - et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires (Briatte, 2011, 2013; Hunsmann, 2016)</span>
-
-+++
 
 ### Open Data & Santé : Cadre théorique (2)
 
@@ -191,7 +179,7 @@ Error F~B
 
 ---
 
-## Cas d’étude 2 : Open Data en épidémiologie du cancer : le projet de recherche Epidemium
+### Cas d’étude 2 : Open Data en épidémiologie du cancer : le projet de recherche Epidemium
 
 <span style="font-size:0.5em; color:gray">*[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
@@ -201,12 +189,12 @@ Error F~B
 
 ### 1/ Un renouvellement des rhétoriques de la promesse
 
-<span style="font-size:0.5em; color:gray">*[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
+<span style="font-size:0.5em; color:gray">[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
 
-<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 450px;"/>
+<img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 600px;"/>
 
 
-***
++++
 
 ### 1/ Un renouvellement des rhétoriques de la promesse  
 
