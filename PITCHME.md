@@ -203,7 +203,7 @@ Error F~B
 
 #### 1/ Un renouvellement des rhétoriques de la promesse  
 
-*Open big data* : une nouvelle rhétorique de la promesse à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015; Novas, 2006)</span>  
+*Open big data* : une nouvelle rhétorique de la promesse à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
 
 ==> une nécessité d'articuler des acteurs aux intérêts divers (progrès scientifique et thérapeutique, logique économique, etc.)
 
@@ -231,7 +231,7 @@ Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-Qu’entend-on par *open big data* ? Une définition commune à trouver :
+Qu’entend-on par *open big data* ? Une définition commune à trouver.
 
 +++
 
@@ -259,7 +259,11 @@ D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-#### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
+Quel socio-technique pensé/imaginé pour l'ouverture des données ?
+
++++
+
+#### Modalités d'ouverture des données par :
 
 - Processus de **régulation juridique** :  conformité avec la CNIL, protocole de simplification pour ouvrir les données.
 
@@ -267,14 +271,38 @@ D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 
 +++
 
-#### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
-
-Soit :
+#### Modalités d'ouverture des données, deux axes:
 
 - D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
 - d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
 
 
+### Conclusion
 
-« monde des données »
+Pour contribuer à cette journée :
+
+- Chiffres privés/publics : distinction floue : ==> proposition d'une grille de lecture par degré d’ouverture souhaitée ;
+
+- nouveaux acteurs et dispositifs frontières ==> des recompositions à la fois basées sur des processus de compétition mais aussi d'articulation/coopération ;
+
++++
+
+Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture :
+
+  - Dynamiques reposant sur la définition cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
+
+    - Une légitimité par la maitrise de la technique, de la « data science»
+    - responsabilité reportée sur la technique
+
+
+---
+
+### Merci de votre attention
+
+
+François Briatte :  [francois.briatte@univ-catholille.fr](francois.briatte@univ-catholille.fr ) et Célya Gruson-Daniel :  [celya.gruson-daniel@parisdescartes.fr](celya.gruson-daniel@parisdescartes.fr)
+
+
+
+Présentation disponible [en ligne](https://gitpitch.com/celyagd/ODS) et bibliographie sur [Zotero](https://www.zotero.org/groups/hackyourphd/items/collectionKey/N7TDJKM2)
