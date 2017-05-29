@@ -101,9 +101,72 @@ Mais en continuité des différents concepts associés à la quantification : co
 
 ---
 
-### Open Data & Santé :
+### L’Open data en santé : quelles significations ?
 
-La Santé : domaine d'étude pour cette présentation
+1- Une mise à disposition de données publiques  : *Open Data / Open Gov*
+
+- Loi République Numérique 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’open data à la suite de la loi CADA).
+
++++
+
+<span style="font-size:0.5em; color:gray">[Loi pour une République Numérique - 16-10-07 ](https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14)</span>
+
+<img src="./img/loi_repnum.png" alt="Loi pour une République numérique" style="width: 600px;"/>
+
++++
+
+<span style="font-size:0.5em; color:gray">[Site CADA.fr](http://www.cada.fr/</span>
+
+<img src="./img/cada.png" alt="Site CADA.fr" style="width: 600px;"/>
+
++++
+
+- Open Data : continuum entre régime de performance et régime démocratique ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
+- dans la lignée de la « modernisation » de l’Etat (productivié, efficacité) ;
+- injonction forte d’accès et de transparence mais aussi de participation  ==>  « simplification » pour faire mieux circuler
+
+---
+
+### L’Open data en santé : quelles significations ?
+
+
+Définition de l’open data dans le domaine de la santé, en pratique :
+
+- Dans le contexte de la loi, qu’est-ce que l’on peut définir comme donnée d’intérêt général (social, économique et environnemental) ?
+
+- données sanitaires issues des institutions publiques et privés hospitalières et de santé (données hospitalières, SNIIRAM) ⇒ nouveau rôle de l'INDS.
+
++++
+
+Ouverture d'autres données revendiquées :
+
+- L'exemple d'[Opentrials](https://opentrials.net/)
+
+<span style="font-size:0.5em; color:gray">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
+
+<img src="./img/opentrials.png" alt="Vidéo Opentrials" style="width: 600px;"/>
+
++++
+
+On peut rajouter aussi :
+
+- Les données du « soi quantifié » issues des applis e-santé/m-mobile souvent détenues par des start-up ou acteurs majeurs du Web. ==>
+⇒ un sujet de préoccupation pour la CNIL.
+
+ Le cahier prospectif de la CNIL est une des illustrations de l’intérêt porté sur ce sujet :
+
+ <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
+
+ <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 600px;"/>
+
++++
+
+
+⇒ Qu'est-ce qui est privé / public ? Qu'est-ce que signifie « ouvrir des données » ? Quels rôles pour de nouveaux acteurs (régulation, détenteur de données sur Internet , etc.)?
+
+
+### Open Data & Santé : une entrée par les acteurs
+
 
  > Quelles recompositions l'« open big data » provoque dans le domaine de la santé et de sa quantification ?
 
@@ -277,6 +340,7 @@ Quel socio-technique pensé/imaginé pour l'ouverture des données ?
 
 - d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
 
+---
 
 ### Conclusion
 
