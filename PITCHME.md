@@ -45,7 +45,7 @@ Passage des qualificatifs de :
 <span style="font-size:0.6em; color:gray">*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
 
 +++
-![Roche_bigdata](./img/roche_bigdata.png = 250x)
+![Roche_bigdata](./img/roche_bigdata.png)
 
 <span style="font-size:0.6em; color:gray">*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
@@ -73,11 +73,10 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 ---
 ### Imaginaire numérique et *data*
 
-<span style="font-size:0.9em>
-*Open Big Data* : une formule/ un "concept flottant" employé par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
+<span style="font-size:0.9em"> *Open Big Data* : une formule/ un "concept flottant" employé par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
 
-- *big data* : maitrise technique, enjeux économiques, avantages compétitifs,
-- *open data* enjeux gestionnaire, économique, démocratique
+  - *big data* : maitrise technique, enjeux économiques, avantages compétitifs,
+  - *open data* enjeux gestionnaire, économique, démocratique
 
 </span>
 
