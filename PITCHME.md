@@ -16,6 +16,8 @@ Co-production de chiffres publics
 
 ---
 
+---?image=assets/./img/epidemium_flot.png
+
 ### Des chiffres à la *data*
 
 Passage des notions de :
@@ -63,6 +65,21 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 ![Epidemium](./img/epidemium_flot.png)
 
 *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*
+
++++
+
+![Epidemium_communauté](./img/epidemium_open.png)
+
+*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*
+
+---
+### Imaginaire numérique et *data*
+
+*Open Big Data* : une formule/ un "concept flottant" employé par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
+
+- *big data* : maitrise technique, enjeux économiques, avantages compétitifs,
+- *open data* enjeux gestionnaire, économique, démocratique
+
 +++
 
 ![Roche_infographie](./img/roche_infographie.png)
