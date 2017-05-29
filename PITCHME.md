@@ -142,20 +142,20 @@ Observation participante :
 
 Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
 
-- De l’action publique : politiques de la quantification (Bardet et Jany-Catrice, 2010), usages de la statistique publique (Desrosières, 2005), valeur sociale du chiffre ; (Ogien, 2010)
+- De l’action publique : politiques de la quantification <span style="font-size:0.5em; color:gray">(Bardet et Jany-Catrice, 2010)</span>, usages de la statistique publique <span style="font-size:0.5em; color:gray">(Desrosières, 2005)</span>, valeur sociale du chiffre ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
 
 
 +++
 
 ### Open Data & Santé : Cadre théorique (1)
 
-- de l’activité scientifique : construction des bases de donnée (Bowker et Star, 2000), travail invisible (Mauz et Granjou, 2011), enjeux des inter-médiations ;  (Schlierf et Meyer, 2013)
+- de l’activité scientifique : construction des bases de donnée <span style="font-size:0.5em; color:gray">(Bowker et Star, 2000)</span>, travail invisible <span style="font-size:0.5em; color:gray">(Mauz et Granjou, 2011)</span>, enjeux des inter-médiations ; <span style="font-size:0.5em; color:gray">(Schlierf et Meyer, 2013)</span>
 
 +++
 
 ### Open Data & Santé : Cadre théorique (1)
 
-- et plus spécifiquement de la santé : rationalisation gestionnaire (Bertillot, 2016), nouveau management public (Belorgey, 2010) ; réformes des systèmes sanitaires. (Briatte, 2011, 2013; Hunsmann, 2016)
+- et plus spécifiquement de la santé : rationalisation gestionnaire <span style="font-size:0.5em; color:gray">(Bertillot, 2016)</span>, nouveau management public <span style="font-size:0.5em; color:gray">(Belorgey, 2010)</span> ; réformes des systèmes sanitaires. <span style="font-size:0.5em; color:gray">(Briatte, 2011, 2013; Hunsmann, 2016)</span>
 
 ---
 
@@ -163,16 +163,16 @@ Observation participante :
 
 Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
 
-  - *Datafication* et reconfiguration de collectifs en science ; (Bastin et Francony, 2016; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016)
-  - institutionnalisation de pratiques numériques ; (Lhoste et Barbier, 2016)
+  - *Datafication* et reconfiguration de collectifs en science ; <span style="font-size:0.5em; color:gray">(Bastin et Francony, 2016 ; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016)</span>
+  - institutionnalisation de pratiques numériques ; <span style="font-size:0.5em; color:gray">(Lhoste et Barbier, 2016)</span>
 
 +++
 
 ### Open Data & Santé : Cadre théorique (2)
 
 
-  - administration publique et brutification des données ; (Denis et Goeta, 2013)
-  - politiques de l'ouverture en santé. (Briatte et Goëta, 2014).
+  - administration publique et brutification des données ; <span style="font-size:0.5em; color:gray">(Denis et Goeta, 2013)</span>
+  - politiques de l'ouverture en santé. <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
 
 ---
 
@@ -226,6 +226,8 @@ Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 
 ==> co-production de la *data* et construction des modalités même de l’ouverture.
 
+---
+
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
@@ -235,7 +237,7 @@ Qu’entend-on par *open big data* ? Une définition commune à trouver :
 
 #### Différentes conceptions de la *data* :
 
-- données personnelles (pour le médecin), données (compte à rendre à la communautés), données à anonymiser ou à “fausser “(*fake data*).
+- données personnelles (pour le médecin), données à libérer (compte à rendre à la communauté), données à anonymiser ou à « fausser » (*fake data*).
 ==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
 
 - démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
@@ -244,18 +246,22 @@ Qu’entend-on par *open big data* ? Une définition commune à trouver :
 
 #### Diverses conceptions de l’*open* :
 
-D’un accès  « maitrisé »  à un libre accès : un gradient possible de l’ouverture :
+D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 
   - mise à disposition restreinte avec infrastructure sécurisée ( ex : INDS )
-  vs
-  - ouverture et réutilisation libre par n’importe qui en favorisant également l’accessibilité de ses données (c’est à dire compréhension des jeux de données).
+
+  VS
+
+  - ouverture et réutilisation libre en favorisant également l’accessibilité de ces données.
+
+---
 
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
 #### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
 
-- Processus de **régulation juridique** : mise en conformité avec la CNIL, mise en place de mesure de simplification pour ouvrir les données.
+- Processus de **régulation juridique** :  conformité avec la CNIL, protocole de simplification pour ouvrir les données.
 
 - Processus **techniques** reposant sur des algorithmes : réponse aux attentes des différentes parties prenantes (degré d’ouverture, qualité, sécurité ) ex : notion de données synthétiques / *fake data*
 
@@ -263,13 +269,12 @@ D’un accès  « maitrisé »  à un libre accès : un gradient possible de l�
 
 #### Mise en place d’un cadre socio-technique adapté à l'ouverture des données : deux axes  
 
+Soit :
 
-Deux axes proposées autour de l’ouverture des données pour articuler les différents enjeux sociaux, politiques, éthiques, scientifiques :
+- D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
-  - D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
-
-  - d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique :  (suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
-
+- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
 
 
-« monde des données » 
+
+« monde des données »
