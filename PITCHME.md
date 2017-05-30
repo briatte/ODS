@@ -105,7 +105,7 @@ Entre nouvelles spécificités et continuité des caractéristiques de la quanti
 ### L’*open data en santé* : quelles significations ?
 
 
-**Une mise à disposition de données publiques dans la mouvance  « open gov »**
+**Une mise à disposition de données publiques dans la mouvance  « *open government* »**
 
 - Loi République Numérique - 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
@@ -123,7 +123,7 @@ Entre nouvelles spécificités et continuité des caractéristiques de la quanti
 
 +++
 
-**Une mise à disposition de données publiques dans la mouvance  « open gov »**
+**Une mise à disposition de données publiques dans la mouvance  « *open government* »**
 
 *Open data* : continuum entre régime de performance et régime démocratique : <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
   - Dans la lignée de la « modernisation » de l’État (productivié, efficacité) ;
