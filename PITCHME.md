@@ -155,7 +155,7 @@ On peut rajouter aussi les données du « soi quantifié » issues des applis *e
 
  <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="CNIL" style="width: 100px;"/>
+ <img src="./img/cnil_corps_ip.png" alt="CNIL"/>
 
 +++
 
