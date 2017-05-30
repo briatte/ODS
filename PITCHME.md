@@ -155,7 +155,7 @@ On peut rajouter aussi les données du « soi quantifié » issues des applis *e
 
  <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 100px;"/>
+ <img src="./img/cnil_corps_ip.png" alt="CNIL" style="width: 100px;"/>
 
 +++
 
@@ -201,7 +201,7 @@ Observation participante :
 
 ### Open Data & Santé : Cadre théorique (1)
 
-Étude de la construction sociale des chiffres/données et de leurs usages dans les sphères :
+Étude de la construction sociale des chiffres/données, de leurs usages et de leurs valeurs attribuées dans les sphères :
 
 - De l’action publique : politiques de la quantification <span style="font-size:0.5em; color:gray">(Bardet et Jany-Catrice, 2010)</span>, usages de la statistique publique <span style="font-size:0.5em; color:gray">(Desrosières, 2005)</span>, valeur sociale du chiffre ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
 
