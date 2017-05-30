@@ -48,7 +48,7 @@ Passage des qualificatifs de :
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
+<span style="font-size:0.5em; color:gray">*[Site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
 <img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 900px;"/>
 
@@ -98,14 +98,14 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 « Mettre la santé en chiffres » aujourd'hui :
 
-Entre nouvelles spécificités et continuité de différentes caractéristiques de la quantification.
+Entre nouvelles spécificités et continuité des caractéristiques de la quantification.
 
 ---
 
 ### L’*open data en santé* : quelles significations ?
 
 
-**Une mise à disposition de données publiques* dans la mouvance  « *Open Gov* »**
+**Une mise à disposition de données publiques* dans la mouvance  « open gov »**
 
 - Loi République Numérique - 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
@@ -123,10 +123,10 @@ Entre nouvelles spécificités et continuité de différentes caractéristiques 
 
 +++
 
-**Une mise à disposition de données publiques* dans la mouvance  « *Open Gov* »**
+**Une mise à disposition de données publiques* dans la mouvance  « open gov »**
 
-*Open data* : continuum entre régime de performance et régime démocratique ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
-  - dans la lignée de la « modernisation » de l’État (productivié, efficacité) ;
+*Open data* : continuum entre régime de performance et régime démocratique : <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
+  - Dans la lignée de la « modernisation » de l’État (productivié, efficacité) ;
   - injonction forte d’accès et de transparence mais aussi de participation  ==>  « simplification » pour mieux faire circuler.
 
 ---
@@ -137,13 +137,13 @@ Définition de l’*open data* dans le domaine de la santé, en pratique :
 
 - Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental) ?
 
-- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé (données hospitalières, SNIIRAM) ⇒ création de l'INDS ([Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
+- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'INDS ([Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 +++
 
-Mais ouverture d'autres données revendiquées :
+Mais ouverture d'autres données revendiquée :
 
-L'exemple d'[Opentrials](https://opentrials.net/)
+l'exemple d'[Opentrials](https://opentrials.net/)
 
 <span style="font-size:0.5em; color:gray">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
@@ -155,11 +155,11 @@ On peut rajouter aussi les données du « soi quantifié » issues des applis *e
 
  <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 2000px;"/>
+ <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 200px;"/>
 
 +++
 
-Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulation, détenteurs de données sur Internet , acteurs du Web, startups, etc.)?
+Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)?
 
 ---
 
@@ -334,19 +334,19 @@ Quel cadre socio-technique pensé/imaginé pour l'ouverture des données ?
 
 #### Modalités d'ouverture des données, deux axes:
 
-- D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
+- D'un côté, modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
 - d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la « circulation » prime).
 
 +++
 
-#### Effet « meta » : ouverture des méthodes de travail :
+#### Effet « meta » - ouverture des méthodes de travail :
 
-Partage, transparence, travail collaboratif..
+Partage, transparence, travail collaboratif...
 
 VS
 
-Nouvelles logiques gestionaires : mesure de l'efficacité et de la performance des équipes
+Nouvelles logiques gestionnaires : mesure de l'efficacité et de la performance des équipes.
 
 ---
 
@@ -354,7 +354,7 @@ Nouvelles logiques gestionaires : mesure de l'efficacité et de la performance d
 
 Pour contribuer à cette journée :
 
-- Chiffres privés/publics : distinction floue : ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
+- Chiffres privés/publics : distinction floue  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
 
 - nouveaux acteurs et dispositifs frontières ==> des recompositions à la fois basées sur des processus de compétition mais aussi d'articulation/coopération ;
 
@@ -362,10 +362,10 @@ Pour contribuer à cette journée :
 
 ##### Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture :
 
-  - Dynamiques reposant sur la définition d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
+  - Construction d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
 
     - Une légitimité par la maitrise de la technique, de la « *data science* » ;
-    - une responsabilité reportée sur la technique.
+    - une responsabilité re-portée sur la technique.
 ---
 
 ### Merci de votre attention
