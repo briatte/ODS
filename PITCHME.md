@@ -10,7 +10,7 @@ Co-production de chiffres publics
 
 +++
 
-- François Briatte :  European School of political and social sciences, Université Catholique de Lille [francois.briatte@univ-catholille.fr](francois.briatte@univ-catholille.fr )
+- François Briatte :  European School of Political and Social Sciences, Université Catholique de Lille [francois.briatte@univ-catholille.fr](francois.briatte@univ-catholille.fr )
 
 - Célya Gruson-Daniel : Centre Virchow-Villermé de santé publique Paris-Berlin, Université de Technologie de Compiègne (Costech), Université de Laval-Québec (LabCMO) [celya.gruson-daniel@parisdescartes.fr](celya.gruson-daniel@parisdescartes.fr)
 
@@ -239,7 +239,50 @@ Appui sur des travaux récents - ce que les *data* et l’*open* provoquent :
 
 ### Cas d’étude 1 : place des acteurs privés dans l'ouverture des données publiques de santé
 
-Error F~B
+SNIIRAM (assurance-maladie), PMSI (hôpitaux), dossiers médicaux, essais cliniques, prescriptions…
+
+Des données privées difficiles à « ouvrir » :
+
+<!--problème côté demande -->
+- __Risque de réidentification__ des consommateurs
+<!-- ... surtout si les données sont longitudinales -->
+
+<!--problème côté offre -->
+- __Valeur commerciale__ intrinsèque pour les producteurs
+<!-- ... y compris pour les agences publiques ! -->
+
+---
+
+### L'accès aux données dans l'industrie sanitaire
+
+Un __système de collecte parallèle__ à celui du service public :
+
+- Démarchage des __cabinets médicaux__ et des __pharmacies__
+- Contractualisation avec les __professionnels__
+- Demandes CADA auprès des __agences sanitaires__
+
+### L'ouverture d'une « donnée » bien particulière
+
+Comment faire la transparence sur les __revenus des professionnels de santé__ ?
+<!-- médecins, mais aussi... présidence de la HAS -->
+
+- Sources publiques : __rapports IGAS__
+- Sources privées : __déclarations des laboratoires__
+
++++
+
+<img src="./img/lundbeck.png" alt="Fichier 'Sunshine' Lundbeck" style="width: 600px;"/>
+
+### Trois initiatives récentes (c. 2011-2017)
+
+- L'__Initiative Transparence Santé__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- La __Base [Transparence Santé](https://www.transparence.sante.gouv.fr/)__
+- Le « __[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__ » de l'association Regards Citoyens
+
+### Les motivations des acteurs
+
+- __Acteurs publics__ : répondre au scandale du Mediator… sans forcer la main aux laboratoires
+- __Acteurs privés__ : préserver la rentabilité des contrats 
 
 ---
 
