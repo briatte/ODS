@@ -5,7 +5,7 @@
 
 Co-production de chiffres publics
 
-*Journée d’étude 31 mai 2017*
+*Journée d’études 31 mai 2017*
 
 
 +++
@@ -25,7 +25,7 @@ Passage des notions de :
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*</span>
+<span style="font-size:0.5em; color:gray">*[Site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*</span>
 ![SFdS](./img/sfds.png)
 
 
@@ -36,11 +36,11 @@ Passage des notions de :
 Passage des qualificatifs de :  
 
 - Publics/ privés  ->  *open*, données ouvertes, d'intérêt général, sensibles, personnelles ;
-- mais aussi *big*, *smart*, utile...
+- mais aussi *big*, *smart*, donnée utile...
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
+<span style="font-size:0.5em; color:gray">*[Site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
 
 <img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 900px;"/>
 
@@ -82,10 +82,9 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 *Open Big Data* : une formule <span style="font-size:0.5em; color:gray">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
 
-  - *big data* : maitrise technique, enjeux économiques, avantages compétitifs ;
+  - *Big data* : maitrise technique, enjeux économiques, avantages compétitifs ;
   - *open data* : enjeu gestionnaire, économique, démocratique.
 
-</span>
 
 +++
 
@@ -95,17 +94,20 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 
 ---
-### Imaginaire numérique et *data*
+### L'*open data* en santé
 
-Mais en continuité des différents concepts associés à la quantification : construction, usages des chiffres  (mesurer vs classer, décrire vs décider et gouverner)
+« Mettre la santé en chiffres » aujourd'hui :
+
+Entre nouvelles spécificités et continuité de différentes caractéristiques de la quantification.
 
 ---
 
-### L’Open data en santé : quelles significations ?
+### L’*open data en santé* : quelles significations ?
 
-1- Une mise à disposition de données publiques  : *Open Data / Open Gov*
 
-- Loi République Numérique 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’open data à la suite de la loi CADA).
+**Une mise à disposition de données publiques* dans la mouvance  « *Open Gov* »**
+
+- Loi République Numérique - 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
 +++
 
@@ -121,26 +123,27 @@ Mais en continuité des différents concepts associés à la quantification : co
 
 +++
 
-- Open Data : continuum entre régime de performance et régime démocratique ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
-- dans la lignée de la « modernisation » de l’Etat (productivié, efficacité) ;
-- injonction forte d’accès et de transparence mais aussi de participation  ==>  « simplification » pour faire mieux circuler
+**Une mise à disposition de données publiques* dans la mouvance  « *Open Gov* »**
+
+*Open data* : continuum entre régime de performance et régime démocratique ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
+  - dans la lignée de la « modernisation » de l’État (productivié, efficacité) ;
+  - injonction forte d’accès et de transparence mais aussi de participation  ==>  « simplification » pour mieux faire circuler.
 
 ---
 
 ### L’Open data en santé : quelles significations ?
 
+Définition de l’*open data* dans le domaine de la santé, en pratique :
 
-Définition de l’open data dans le domaine de la santé, en pratique :
+- Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental) ?
 
-- Dans le contexte de la loi, qu’est-ce que l’on peut définir comme donnée d’intérêt général (social, économique et environnemental) ?
-
-- données sanitaires issues des institutions publiques et privés hospitalières et de santé (données hospitalières, SNIIRAM) ⇒ nouveau rôle de l'INDS.
+- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé (données hospitalières, SNIIRAM) ⇒ création de l'INDS ([Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 +++
 
-Ouverture d'autres données revendiquées :
+Mais ouverture d'autres données revendiquées :
 
-- L'exemple d'[Opentrials](https://opentrials.net/)
+L'exemple d'[Opentrials](https://opentrials.net/)
 
 <span style="font-size:0.5em; color:gray">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
@@ -148,16 +151,15 @@ Ouverture d'autres données revendiquées :
 
 +++
 
-On peut rajouter aussi les données du « soi quantifié » issues des applis e-santé/m-mobile souvent détenues par des start-up ou acteurs majeurs du Web.
+On peut rajouter aussi les données du « soi quantifié » issues des applis *e-santé/m-mobile*.
 
  <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 400px;"/>
+ <img src="./img/cnil_corps_ip.png" alt="cahier prospectif CNIL" style="width: 2000px;"/>
 
 +++
 
-
-⇒ Qu'est-ce qui est privé / public ? Qu'est-ce que signifie « ouvrir des données » ? Quels rôles pour de nouveaux acteurs (régulation, détenteur de données sur Internet , etc.)?
+Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulation, détenteurs de données sur Internet , acteurs du Web, startups, etc.)?
 
 ---
 
@@ -168,7 +170,7 @@ On peut rajouter aussi les données du « soi quantifié » issues des applis e-
 
 +++
 
-### Open Data & Santé : une entrée par les acteurs pour :
+### Open Data & Santé - une entrée par les acteurs pour :
 
 
 - Comprendre les processus en jeu dans l'ouverture des données de santé ;
@@ -214,13 +216,13 @@ Observation participante :
 
 ### Open Data & Santé : Cadre théorique (1)
 
-- et plus spécifiquement de la santé : rationalisation gestionnaire <span style="font-size:0.5em; color:gray">(Bertillot, 2016)</span>, nouveau management public <span style="font-size:0.5em; color:gray">(Belorgey, 2010)</span> ; réformes des systèmes sanitaires. <span style="font-size:0.5em; color:gray">(Briatte, 2011, 2013; Hunsmann, 2016)</span>
+- et plus spécifiquement de la santé : rationalisation gestionnaire <span style="font-size:0.5em; color:gray">(Bertillot, 2016)</span>, nouveau *management* public <span style="font-size:0.5em; color:gray">(Belorgey, 2010)</span>, réformes des systèmes sanitaires. <span style="font-size:0.5em; color:gray">(Briatte, 2011, 2013; Hunsmann, 2016)</span>
 
 ---
 
 ### Open Data & Santé : Cadre théorique (2)
 
-Appui sur les travaux récents : ce que les *data* et l’*open* provoquent :
+Appui sur des travaux récents - ce que les *data* et l’*open* provoquent :
 
   - *Datafication* et reconfiguration de collectifs en science ; <span style="font-size:0.5em; color:gray">(Bastin et Francony, 2016 ; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016)</span>
   - institutionnalisation de pratiques numériques ; <span style="font-size:0.5em; color:gray">(Lhoste et Barbier, 2016)</span>
@@ -241,7 +243,7 @@ Error F~B
 
 ---
 
-### Cas d’étude 2 : Open Data en épidémiologie du cancer : le projet de recherche Epidemium
+### Cas d’étude 2 : *open data* en épidémiologie du cancer : le projet de recherche Epidemium
 
 <span style="font-size:0.5em; color:gray">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
@@ -280,8 +282,8 @@ Error F~B
 #### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
 Dispositif frontière - un assemblage hétérogène regroupant à la fois :
-- des institutions privées, publiques
-- mise en place de normes, d'insfrastructures, langage commmun (jeux d’ inter-médiations)
+- Des institutions privées, publiques ;
+- la mise en place de normes, d'insfrastructures, d'un langage commmun (jeux d’ inter-médiations).
 
 ==> co-production de la *data* et construction des modalités même de l’ouverture.
 
@@ -296,10 +298,10 @@ Qu’entend-on par *open big data* ? Une définition commune à trouver.
 
 #### Différentes conceptions de la *data* :
 
-- données personnelles (pour le médecin), données à libérer (compte à rendre à la communauté), données à anonymiser ou à « fausser » (*fake data*).
+Données personnelles (pour le médecin), données « à libérer  »(compte à rendre à la communauté), données à anonymiser ou à « fausser » (*fake data*).
 ==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
 
-- démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
+Démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
 
 +++
 
@@ -307,7 +309,7 @@ Qu’entend-on par *open big data* ? Une définition commune à trouver.
 
 D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 
-  - mise à disposition restreinte avec infrastructure sécurisée ( ex : INDS )
+  - Mise à disposition restreinte avec une infrastructure sécurisée ( ex : INDS ) ;
 
   VS
 
@@ -318,7 +320,7 @@ D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-Quel socio-technique pensé/imaginé pour l'ouverture des données ?
+Quel cadre socio-technique pensé/imaginé pour l'ouverture des données ?
 
 +++
 
@@ -326,7 +328,7 @@ Quel socio-technique pensé/imaginé pour l'ouverture des données ?
 
 - Processus de **régulation juridique** :  conformité avec la CNIL, protocole de simplification pour ouvrir les données.
 
-- Processus **techniques** reposant sur des algorithmes : réponse aux attentes des différentes parties prenantes (degré d’ouverture, qualité, sécurité ) ex : notion de données synthétiques / *fake data*
+- Processus **techniques** reposant sur des algorithmes : réponse aux attentes des différentes parties prenantes (qualité, sécurité... ) ex : notion de données synthétiques / *fake data*.
 
 +++
 
@@ -334,7 +336,17 @@ Quel socio-technique pensé/imaginé pour l'ouverture des données ?
 
 - D'un côté modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
-- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la circulation prime).
+- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la « circulation » prime).
+
++++
+
+#### Effet « meta » : ouverture des méthodes de travail :
+
+Partage, transparence, travail collaboratif..
+
+VS
+
+Nouvelles logiques gestionaires : mesure de l'efficacité et de la performance des équipes
 
 ---
 
@@ -342,20 +354,18 @@ Quel socio-technique pensé/imaginé pour l'ouverture des données ?
 
 Pour contribuer à cette journée :
 
-- Chiffres privés/publics : distinction floue : ==> proposition d'une grille de lecture par degré d’ouverture souhaitée ;
+- Chiffres privés/publics : distinction floue : ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
 
 - nouveaux acteurs et dispositifs frontières ==> des recompositions à la fois basées sur des processus de compétition mais aussi d'articulation/coopération ;
 
 +++
 
-Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture :
+##### Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture :
 
-  - Dynamiques reposant sur la définition cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
+  - Dynamiques reposant sur la définition d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
 
-    - Une légitimité par la maitrise de la technique, de la « data science»
-    - responsabilité reportée sur la technique
-
-
+    - Une légitimité par la maitrise de la technique, de la « *data science* » ;
+    - une responsabilité reportée sur la technique.
 ---
 
 ### Merci de votre attention
