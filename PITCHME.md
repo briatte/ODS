@@ -69,9 +69,9 @@ Passage des qualificatifs de :
 
 ### Imaginaire numérique et *data*
 
-Horizons d’attentes fortes autour de ce « monde des données » d’un point de vue :
+Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d’un point de vue :
 
-- Économique, social, scientifique, politique dans de nombreux domaines (effet « pervasif » du numérique) ; <span style="font-size:0.5em">*(Boullier, 2016) *</span>
+- Économique, social, scientifique, politique dans de nombreux domaines (effet «&nbsp;pervasif&nbsp;» du numérique) ; <span style="font-size:0.5em">*(Boullier, 2016) *</span>
 - associés à un imaginaire numérique : idéal du partage, de la transparence, de la collaboration. <span style="font-size:0.5em">*(Gruson-Daniel et al., 2016;  Ibekwe-Sanjuan et al., 2015; Turner, 2012)*</span>
 
 +++
@@ -108,7 +108,7 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 ### L'*open data* en santé
 
-« Mettre la santé en chiffres » aujourd'hui :
+«&nbsp;Mettre la santé en chiffres&nbsp;» aujourd'hui :
 
 Entre nouvelles spécificités et continuité des caractéristiques de la quantification. -->
 
@@ -117,7 +117,7 @@ Entre nouvelles spécificités et continuité des caractéristiques de la quanti
 ### L’*open data* en santé
 
 
-**Une mise à disposition de données publiques dans la mouvance  « open gov »**
+**Une mise à disposition de données publiques dans la mouvance  «&nbsp;open gov&nbsp;»**
 
 - Loi République Numérique - 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
@@ -135,19 +135,19 @@ Entre nouvelles spécificités et continuité des caractéristiques de la quanti
 
 +++
 
-**Une mise à disposition de données publiques dans la mouvance  « open gov »**
+**Une mise à disposition de données publiques dans la mouvance  «&nbsp;open gov&nbsp;»**
 
 *Open data* : continuum entre régime de performance et régime démocratique : <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
-  - Dans la lignée de la « modernisation » de l’État (productivié, efficacité) ;
-  - injonction forte d’accès et de transparence mais aussi de participation  ==>  « simplification » pour mieux faire circuler.
+  - Dans la lignée de la «&nbsp;modernisation&nbsp;» de l’État (productivié, efficacité) ;
+  - injonction forte d’accès et de transparence mais aussi de participation  ==>  «&nbsp;simplification&nbsp;» pour mieux faire circuler.
 
 ---
 
-### L’open data en santé : quelles significations ?
+### L’open data en santé : quelles significations&nbsp;?
 
 Définition de l’*open data* dans le domaine de la santé, en pratique :
 
-- Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental) ?
+- Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental)&nbsp;?
 
 - partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
@@ -163,7 +163,7 @@ l'exemple d'[Opentrials](https://opentrials.net/)
 
 +++
 
-On peut rajouter aussi les données du « soi quantifié » issues des applis *e-santé/m-mobile*.
+On peut rajouter aussi les données du «&nbsp;soi quantifié&nbsp;» issues des applis *e-santé/m-mobile*.
 
 <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
@@ -171,13 +171,13 @@ On peut rajouter aussi les données du « soi quantifié » issues des applis *e
 
 +++
 
-Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.) ?
+Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «&nbsp;ouvrir des données&nbsp;»&nbsp;? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)&nbsp;?
 
 ---
 
-### Cas d’étude 1 : « ouvrir » des données publiques de santé
+### Cas d’étude 1 : « ouvrir » des données de santé
 
-SNIIRAM (assurance-maladie), PMSI (hôpitaux), dossiers médicaux, essais cliniques, prescriptions…
+SNIIRAM (assurance-maladie), PMSI (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
 
 Des données privées difficiles à « ouvrir » :
 
@@ -202,9 +202,9 @@ Un __système de collecte parallèle__ à celui de l'État :
 
 ---
 
-### L'ouverture d'une « donnée » sensible
+### Ouvrir une « donnée » sensible
 
-Comment faire la transparence sur les __revenus des professionnels de santé__ ?
+Comment faire la transparence sur les __revenus des professionnels de santé__&nbsp;?
 <!-- médecins, mais aussi... présidence de la HAS -->
 
 - Sources publiques : __rapports IGAS__
@@ -212,7 +212,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__ 
 
 +++
 
-<a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"><img src="./img/lundbeck.png" alt="Fichier 'Sunshine' Lundbeck" style="width: 600px;"/></a>
+<a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"><img src="./img/lundbeck.png" alt="Fichier Sunshine Lundbeck" style="width: 600px;"/></a>
 
 ---
 
@@ -220,11 +220,17 @@ Comment faire la transparence sur les __revenus des professionnels de santé__ 
 
 - L'__[Initiative Transparence Santé](https://web.archive.org/web/20130701000000*/http://www.opendatasante.com/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
 - La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
-- Le « __[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__ » de l'association Regards Citoyens
+- Le « __[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__ » <span style="font-size:0.66em;">(association Regards Citoyens)</span>
 
 +++
 
-<img src="./img/sunshine_rc.png" alt="Sunshine RC" style="width: 600px;"/>
+<img src="./img/transparence_sante.png" alt="Transparence Santé" style="width: 100%;"/>
+
++++
+
+<img src="./img/sunshine_rc.png" alt="Sunshine RC" style="width: 100%;"/>
+
+---
 
 ### Les motivations des acteurs
 
@@ -287,13 +293,13 @@ Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-Qu’entend-on par *open big data* ? Une définition commune à trouver.
+Qu’entend-on par *open big data*&nbsp;? Une définition commune à trouver.
 
 +++
 
 #### Différentes conceptions de la *data* :
 
-Données personnelles (pour le médecin), données « à libérer  »(compte à rendre à la communauté), données à anonymiser ou à « fausser » (*fake data*).
+Données personnelles (pour le médecin), données «&nbsp;à libérer &nbsp;»(compte à rendre à la communauté), données à anonymiser ou à «&nbsp;fausser&nbsp;» (*fake data*).
 ==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
 
 Démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
@@ -302,7 +308,7 @@ Démystification du *big data* : travail sur des petits jeux de données (*datas
 
 #### Diverses conceptions de l’*open* :
 
-D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
+D’un accès  «&nbsp;maitrisé&nbsp;»  à un libre accès - gradient de l’ouverture :
 
   - Mise à disposition restreinte avec une infrastructure sécurisée ( ex : INDS ) ;
 
@@ -315,7 +321,7 @@ D’un accès  « maitrisé »  à un libre accès - gradient de l’ouverture :
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-Quel cadre socio-technique pensé/imaginé pour l'ouverture des données ?
+Quel cadre socio-technique pensé/imaginé pour l'ouverture des données&nbsp;?
 
 +++
 
@@ -329,13 +335,13 @@ Quel cadre socio-technique pensé/imaginé pour l'ouverture des données ?
 
 #### Modalités d'ouverture des données, deux axes:
 
-- D'un côté, modalité « classique »  :  création d’instance de régulation, mise en place de protocole et de loi ;
+- D'un côté, modalité «&nbsp;classique&nbsp;»  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
-- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la « circulation » prime).
+- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la «&nbsp;circulation&nbsp;» prime).
 
 +++
 
-#### Effet « meta » - ouverture des méthodes de travail :
+#### Effet «&nbsp;meta&nbsp;» - ouverture des méthodes de travail :
 
 Partage, transparence, travail collaboratif...
 
@@ -359,7 +365,7 @@ Pour contribuer à cette journée :
 
   - Construction d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
 
-    - Une légitimité par la maitrise de la technique, de la « *data science* » ;
+    - Une légitimité par la maitrise de la technique, de la «&nbsp;*data science*&nbsp;» ;
     - une responsabilité re-portée sur la technique.
 ---
 
