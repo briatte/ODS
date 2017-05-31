@@ -8,7 +8,7 @@ Session «&nbsp;Co-production de chiffres publics&nbsp;»
 
 ---
 
-### Deux cas d'étude
+### Deux cas d’étude
 
 1. ___Sunshine_ – Faire la «&nbsp;transparence&nbsp;» sur les revenus des médecins__ pour reconfigurer un espace socio-économique
 
@@ -36,7 +36,7 @@ Méthodes statistiques complétées par&nbsp;: fouille de données (*data mining
 
 Passage des qualificatifs de&nbsp;:  
 
-- Publics/ privés &rarr; *open*, données ouvertes, d'intérêt général, sensibles, personnelles
+- Publics/ privés &rarr; *open*, données ouvertes, d’intérêt général, sensibles, personnelles
 - Mais aussi&nbsp; *big data*, *smart data*, «&nbsp;données utiles&nbsp;», ...
 
 +++
@@ -129,9 +129,9 @@ Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
 
 +++
 
-Mais ouverture d'autres données revendiquée&nbsp;:
+Mais ouverture d’autres données revendiquée&nbsp;:
 
-l’exemple d'[Opentrials](https://opentrials.net/)
+l’exemple d’[Opentrials](https://opentrials.net/)
 
 <span style="font-size:0.66em;color:#666;">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
@@ -145,7 +145,7 @@ On peut rajouter aussi les données du **«&nbsp;soi quantifié&nbsp;»** issues
 
 +++
 
-Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «&nbsp;ouvrir des données&nbsp;»&nbsp;? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)&nbsp;?
+Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu’entendre par «&nbsp;ouvrir des données&nbsp;»&nbsp;? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)&nbsp;?
 
 ---
 
@@ -168,7 +168,7 @@ Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
 
 ### L’accès aux données dans les agences publiques
 
-Un __régime d'accès fragmenté__ en miroir de la gouvernance du système de santé&nbsp;:
+Un __régime d’accès fragmenté__ en miroir de la gouvernance du système de santé&nbsp;:
 <!-- régime bismarckien universalisé -->
 
 <!-- HAS = ex-ANAES, ANSM = ex-AFSSAPS, ARS = HPST (préfig. Juppé) -->
@@ -190,7 +190,7 @@ Un __système de collecte parallèle__ à celui de l’État&nbsp;:
 - Demandes CADA auprès des __agences sanitaires__
 
 <!-- ... et aussi : scraping du site CNAMTS (Ameli) ! -->
-<!-- Pierre-Louis Bras (IGAS), rapp. gouvernance et utilisation des données de santé, 2013 : les industries n'ont pas besoin des données, elles les ont déjà ! -->
+<!-- Pierre-Louis Bras (IGAS), rapp. gouvernance et utilisation des données de santé, 2013 : les industries n’ont pas besoin des données, elles les ont déjà ! -->
 
 ---
 
@@ -216,15 +216,15 @@ Pour les __acteurs publics__&nbsp;:
 
 <!-- évitement du blâme : éviter les scandales -->
 - Améliorer la sécurité sanitaire
-- Limiter les conflits d'intérêt
+- Limiter les conflits d’intérêt
 <!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, collusions autour des AMM ou de la fixation des prix des médicaments -->
 
 Pour les __acteurs privés__&nbsp;:
 
 - __Industriels installés__&nbsp;: préserver la rentabilité
-- __Nouveaux entrants__&nbsp;: provoquer un choc d'offre
+- __Nouveaux entrants__&nbsp;: provoquer un choc d’offre
 - __Société civile__&nbsp;: conscientiser l’activité médicale
-<!-- càd. rendre les sur-prescriptions et/ou les conflits d'intérêts apparents, à des fins de dénonciation : naming/shaming ; idem revenus des députés et dépenses IRFM (Indemnité représentative de frais de mandat) -->
+<!-- càd. rendre les sur-prescriptions et/ou les conflits d’intérêts apparents, à des fins de dénonciation : naming/shaming ; idem revenus des députés et dépenses IRFM (Indemnité représentative de frais de mandat) -->
 
 ---
 
@@ -244,7 +244,7 @@ Pour les __acteurs privés__&nbsp;:
 ---
 
 <span style="font-size:0.66em;color:#666;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 2014</span>
-<!-- objectif affiché n°2 : éviter les accidents sanitaires (Servier reprend l'argument dans sa procédure) -->
+<!-- objectif affiché n°2 : éviter les accidents sanitaires (Servier reprend l’argument dans sa procédure) -->
 
 <img src="./img/its_cartogramme_mediator.png" alt="ITS_Mediator" style="width:100%"/>
 
@@ -270,18 +270,18 @@ Pour les __acteurs privés__&nbsp;:
 
 ---
 
-### Qu'a-t-on observé&nbsp;?
+### Qu’a-t-on observé&nbsp;?
 
 <!-- les contraintes et les dissensions ne sont pas seulement administratives, scientifiques ou techniques : économiques (commerciales) et politiques -->
 - Des __données sous tension__
 - Une __ouverture sous contrainte__
-<!-- ouverture qui prend la forme d'une entreprise de libération sous la pression circonstancielle d'acteurs économiquement ou politiquement motivés -->
+<!-- ouverture qui prend la forme d’une entreprise de libération sous la pression circonstancielle d’acteurs économiquement ou politiquement motivés -->
 
 ---
 
 ### Cas d’étude 2&nbsp;: *open data* en épidémiologie du cancer&nbsp;: le projet de recherche Epidemium
 
-<span style="font-size:0.66em;color:#666;">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
+<span style="font-size:0.66em;color:#666;">[Page d’accueil d’Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
 
 <img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 600px;"/>
@@ -302,7 +302,7 @@ Pour les __acteurs privés__&nbsp;:
 
 *Open big data*&nbsp;: une nouvelle **rhétorique de la promesse** à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.66em;color:#666;">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
 
-==> une nécessité d'**articuler des acteurs aux intérêts divers** (progrès scientifique et thérapeutique, logique économique, etc.)
+==> une nécessité d’**articuler des acteurs aux intérêts divers** (progrès scientifique et thérapeutique, logique économique, etc.)
 
 
 ---
@@ -319,7 +319,7 @@ Pour les __acteurs privés__&nbsp;:
 
 Dispositif frontière - un assemblage hétérogène regroupant à la fois&nbsp;:
 - Des institutions privées, publiques ;
-- la mise en place de normes, d'insfrastructures, d'un langage commmun (jeux d’ inter-médiations).
+- la mise en place de normes, d’insfrastructures, d’un langage commmun (jeux d’ inter-médiations).
 
 ==> **co-production de la *data* et construction des modalités même de l’ouverture.**
 
@@ -360,7 +360,7 @@ Quel **cadre socio-technique** pensé/imaginé pour l’ouverture des données&n
 
 +++
 
-#### Modalités d'ouverture des données par&nbsp;:
+#### Modalités d’ouverture des données par&nbsp;:
 
 - Processus de **régulation juridique**&nbsp;:  conformité avec la CNIL, protocole de simplification pour ouvrir les données.
 
@@ -368,11 +368,11 @@ Quel **cadre socio-technique** pensé/imaginé pour l’ouverture des données&n
 
 +++
 
-#### Modalités d'ouverture des données, deux axes:
+#### Modalités d’ouverture des données, deux axes:
 
-- D'un côté, **modalité «&nbsp;classique&nbsp;»** &nbsp;:  création d’instance de régulation, mise en place de protocole et de loi ;
+- D’un côté, **modalité «&nbsp;classique&nbsp;»** &nbsp;:  création d’instance de régulation, mise en place de protocole et de loi
 
-- d’un autre côté, **basculement sur des solutions techniques** (algorithmiques) reposant sur un imaginaire cybernetico-numérique&nbsp;: suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la «&nbsp;circulation&nbsp;» prime).
+- D’un autre côté, **basculement sur des solutions techniques** (algorithmiques) reposant sur un imaginaire cybernetico-numérique&nbsp;: suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la «&nbsp;circulation&nbsp;» prime).
 
 +++
 
@@ -390,15 +390,15 @@ VS
 
 Pour contribuer à cette journée&nbsp;:
 
-- Chiffres privés/publics&nbsp;: distinction floue  ==> proposition d'une **grille de lecture par le degré d’ouverture** souhaité ;
+- Chiffres privés/publics&nbsp;: distinction floue  ==> proposition d’une **grille de lecture par le degré d’ouverture** souhaité ;
 
-- nouveaux acteurs et dispositifs frontières ==> des **recompositions** à la fois basées sur des **processus de compétition** mais aussi d'articulation/**coopération** ;
+- nouveaux acteurs et dispositifs frontières ==> des **recompositions** à la fois basées sur des **processus de compétition** mais aussi d’articulation/**coopération** ;
 
 +++
 
 ##### Processus de co-construction de la donnée (de sa signification) mais aussi des modalités de son ouverture&nbsp;:
 
-  - Construction d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort&nbsp;:
+  - Construction d’un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort&nbsp;:
 
     - Une **légitimité par la maitrise de la technique**, de la «&nbsp;*data science*&nbsp;» ;
     - une **responsabilité re-portée sur la technique**.
