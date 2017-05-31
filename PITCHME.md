@@ -1,4 +1,4 @@
-### L’ouverture des données de santé : une entrée par les acteurs
+### L’ouverture des données de santé&nbsp;: une entrée par les acteurs
 
 
 **[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org) : Calculs, comptabilités et statistiques XVIIe-XXIe siècle**
@@ -179,11 +179,11 @@ Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «
 
 SNIIRAM (assurance-maladie), PMSI (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
 
-Des données privées difficiles à « ouvrir » :
+Des données privées difficiles à « ouvrir »&nbsp;:
 
 <!--problème côté demande -->
 <!-- ... surtout si les données sont longitudinales -->
-<!--problème côté offre : valeur intrinsèque -->
+<!--problème côté offre&nbsp;: valeur intrinsèque -->
 <!-- ... y compris pour les agences publiques ! -->
 
 - __Risque de réidentification__ des consommateurs
@@ -193,7 +193,7 @@ Des données privées difficiles à « ouvrir » :
 
 ### L'accès aux données dans l'industrie sanitaire
 
-Un __système de collecte parallèle__ à celui de l'État :
+Un __système de collecte parallèle__ à celui de l'État&nbsp;:
 <!-- i.e. du service public -->
 
 - Démarchage des __cabinets médicaux__ <span style="font-size: 0.66em;">(et des pharmacies)</span>
@@ -207,14 +207,14 @@ Un __système de collecte parallèle__ à celui de l'État :
 Comment faire la transparence sur les __revenus des professionnels de santé__&nbsp;?
 <!-- médecins, mais aussi... présidence de la HAS -->
 
-- Sources publiques : __rapports IGAS__
-- Sources privées : __déclarations des laboratoires__
+- Sources publiques&nbsp;: __rapports IGAS__
+- Sources privées&nbsp;: __déclarations des laboratoires__
 
 +++
 
 <!-- <a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"></a> -->
 
-<img src="./img/lundbeck.png" alt="Sunshine_Lundbeck" style="width: 100%;"/>
+<img src="./img/lundbeck.png" alt="Sunshine_Lundbeck" style="width:100%;"/>
 
 ---
 
@@ -226,23 +226,31 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 +++
 
-<img src="./img/transparence_sante.png" alt="Transparence Santé" style="width: 100%;"/>
+<img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
 
 +++
 
-<img src="./img/sunshine_rc.png" alt="Sunshine RC" style="width: 100%;"/>
+<img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
+
++++
+
+<img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
 
 ---
 
 ### Les motivations des acteurs
 
-- __Acteurs publics__ : répondre au scandale du Mediator
-- __Acteurs privés__ : préserver la rentabilité des contrats
-- __Société civile__ : conscientiser l'activité médicale
+- __Acteurs publics__&nbsp;: répondre au scandale du Mediator
+- __Acteurs privés__&nbsp;: préserver la rentabilité des contrats
+- __Société civile__&nbsp;: conscientiser l'activité médicale
+
+---
 
 ### Les stratégies déployées
 
-- 
+- Faire __pression en public__
+- Faire __pression en privé__
+- Rendre les données ___lisibles___
 
 ---
 
