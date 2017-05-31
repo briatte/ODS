@@ -167,13 +167,19 @@ Trois initiatives récentes&nbsp;:
 
 +++
 
+<span style="font-size:0.66em;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a> (2013)</span>
+
 <img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
 
 +++
 
+<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Transparence Santé</a> (2014)</span>
+
 <img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
 
 +++
+
+<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Projet «&nbsp;Sunshine&nbsp;»</a> (2015)</span>
 
 <img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
 
@@ -202,9 +208,9 @@ Un __régime d'accès fragmenté__ en miroir de la gouvernance du système de sa
 <!-- régime bismarckien universalisé -->
 
 <!-- HAS = ex-ANAES, ANSM = ex-AFSSAPS, ARS = HPST (préfig. Juppé) -->
-- Accès «&nbsp;État&nbsp;» (DGS, HAS, ANSM, ARS, CEPS…)<br />
-  ≠ Accès «&nbsp;Assurance-maladie&nbsp;» (CNAM, URCAM)<br />
-  ≠ Accès «&nbsp;Ordre&nbsp;» (CNOM, sociétés)
+- Accès «&nbsp;__État__&nbsp;» (DGS, HAS, ANSM, ARS, CEPS…)<br />
+  ≠ Accès «&nbsp;__Assurance-maladie__&nbsp;» (CNAM, URCAM)<br />
+  ≠ Accès «&nbsp;__Ordre__&nbsp;» (CNOM, sociétés)
 - Autorisations requises : CADA et CNIL <span style="font-size: 0.66em;">(CCTIRS, IDS)</span>
 <!-- CCTIRS = Comité consultatif sur le traitement de l’information en matière de recherche dans le domaine de la santé -->
 
@@ -268,9 +274,11 @@ Pour les __acteurs privés__&nbsp;:
 
 +++
 
-<span style="font-size:0.66em;color:#666;">Consommation de Mediator 2008–2010<br />(Initiative Transparence Santé, 22 février 2014)</span>
+<span style="font-size:0.66em;color:#666;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 22 février 2014</span>
 
 <img src="./img/its_cartogramme_mediator.png" alt="ITS_Mediator" style="width:100%"/>
+
+<!--https://www.data.gouv.fr/fr/reuses/cartogramme-des-consommateurs-de-mediator-en-france/ -->
 
 ---
 
