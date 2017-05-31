@@ -149,7 +149,7 @@ Définition de l’*open data* dans le domaine de la santé, en pratique :
 
 - Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental) ?
 
-- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'INDS ([Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
+- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 +++
 
@@ -182,20 +182,21 @@ SNIIRAM (assurance-maladie), PMSI (hôpitaux), dossiers médicaux, essais cliniq
 Des données privées difficiles à « ouvrir » :
 
 <!--problème côté demande -->
-- __Risque de réidentification__ des consommateurs
 <!-- ... surtout si les données sont longitudinales -->
-
 <!--problème côté offre -->
-- __Valeur commerciale__ intrinsèque pour les producteurs
 <!-- ... y compris pour les agences publiques ! -->
+
+- __Risque de réidentification__ des consommateurs
+- __Valeur commerciale__ intrinsèque pour les producteurs
 
 ---
 
 ### L'accès aux données dans l'industrie sanitaire
 
-Un __système de collecte parallèle__ à celui du service public :
+Un __système de collecte parallèle__ à celui de l'État :
+<!-- i.e. du service public -->
 
-- Démarchage des __cabinets médicaux__ et des __pharmacies__
+- Démarchage des __cabinets médicaux__ <span style="font-size: 0.66em;">(et des pharmacies)</span>
 - Contractualisation avec les __professionnels__
 - Demandes CADA auprès des __agences sanitaires__
 
