@@ -263,9 +263,9 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 #### 1/ Un renouvellement des rhétoriques de la promesse  
 
-*Open big data* : une nouvelle rhétorique de la promesse à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
+*Open big data* : une nouvelle **rhétorique de la promesse** à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
 
-==> une nécessité d'articuler des acteurs aux intérêts divers (progrès scientifique et thérapeutique, logique économique, etc.)
+==> une nécessité d'**articuler des acteurs aux intérêts divers** (progrès scientifique et thérapeutique, logique économique, etc.)
 
 
 ---
@@ -280,7 +280,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 #### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
-Dispositif frontière - un assemblage hétérogène regroupant à la fois :
+**Dispositif frontière** - un assemblage hétérogène regroupant à la fois :
 - Des institutions privées, publiques ;
 - la mise en place de normes, d'insfrastructures, d'un langage commmun (jeux d’ inter-médiations).
 
@@ -297,7 +297,7 @@ Qu’entend-on par *open big data*&nbsp;? Une définition commune à trouver.
 
 #### Différentes conceptions de la *data* :
 
-Données personnelles (pour le médecin), données «&nbsp;à libérer &nbsp;»(compte à rendre à la communauté), données à anonymiser ou à «&nbsp;fausser&nbsp;» (*fake data*).
+**Données personnelles** (pour le médecin), **données «&nbsp;à libérer** &nbsp;»(compte à rendre à la communauté), données à anonymiser ou à «&nbsp;fausser&nbsp;» **(*fake data*)**.
 ==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
 
 Démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
@@ -306,20 +306,20 @@ Démystification du *big data* : travail sur des petits jeux de données (*datas
 
 #### Diverses conceptions de l’*open* :
 
-D’un accès  «&nbsp;maitrisé&nbsp;»  à un libre accès - gradient de l’ouverture :
+D’un accès  «&nbsp;maitrisé&nbsp;»  à un libre accès - **gradient de l’ouverture** :
 
-  - Mise à disposition restreinte avec une infrastructure sécurisée ( ex : INDS ) ;
+  - **Mise à disposition restreinte** avec une infrastructure sécurisée ( ex : INDS ) ;
 
   VS
 
-  - ouverture et réutilisation libre en favorisant également l’accessibilité de ces données.
+  - **ouverture et réutilisation libre** en favorisant également l’accessibilité de ces données.
 
 ---
 
 #### 3/ Inter-médiations à l’œuvre : une co-construction double : celle de la donnée et des modalités de son ouverture.
 
 
-Quel cadre socio-technique pensé/imaginé pour l'ouverture des données&nbsp;?
+Quel **cadre socio-technique** pensé/imaginé pour l'ouverture des données&nbsp;?
 
 +++
 
@@ -333,9 +333,9 @@ Quel cadre socio-technique pensé/imaginé pour l'ouverture des données&nbsp;?
 
 #### Modalités d'ouverture des données, deux axes:
 
-- D'un côté, modalité «&nbsp;classique&nbsp;»  :  création d’instance de régulation, mise en place de protocole et de loi ;
+- D'un côté, **modalité «&nbsp;classique&nbsp;»**  :  création d’instance de régulation, mise en place de protocole et de loi ;
 
-- d’un autre côté, basculement sur des solutions techniques (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la «&nbsp;circulation&nbsp;» prime).
+- d’un autre côté, **basculement sur des solutions techniques** (algorithmiques) reposant sur un imaginaire cybernetico-numérique : suppression tiers de confiance, responsabilité  basculée sur les algorithmes, la «&nbsp;circulation&nbsp;» prime).
 
 +++
 
@@ -345,7 +345,7 @@ Partage, transparence, travail collaboratif...
 
 VS
 
-Nouvelles logiques gestionnaires : mesure de l'efficacité et de la performance des équipes.
+**Nouvelles logiques gestionnaires** : mesure de l'efficacité et de la performance des équipes.
 
 ---
 
@@ -353,9 +353,9 @@ Nouvelles logiques gestionnaires : mesure de l'efficacité et de la performance 
 
 Pour contribuer à cette journée :
 
-- Chiffres privés/publics : distinction floue  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
+- Chiffres privés/publics : **frontière qui s'estompe**  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
 
-- nouveaux acteurs et dispositifs frontières ==> des recompositions à la fois basées sur des processus de compétition mais aussi d'articulation/coopération ;
+- nouveaux acteurs et dispositifs frontières ==> des **recompositions** à la fois basées sur des **processus de compétition** mais aussi d'articulation/**coopération** ;
 
 +++
 
@@ -363,8 +363,8 @@ Pour contribuer à cette journée :
 
   - Construction d'un cadre socio-technique reposant de plus en plus sur un imaginaire cyber-numérique fort :
 
-    - Une légitimité par la maitrise de la technique, de la «&nbsp;*data science*&nbsp;» ;
-    - une responsabilité re-portée sur la technique.
+    - Une **légitimité par la maitrise de la technique**, de la «&nbsp;*data science*&nbsp;» ;
+    - une **responsabilité re-portée sur la technique**.
 ---
 
 ### Merci de votre attention
