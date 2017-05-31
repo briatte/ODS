@@ -401,9 +401,19 @@ Pour contribuer à cette journée&nbsp;:
 
 ### Merci de votre attention
 
-- __François Briatte__ <span style="font-size:0.66em;">(European School of Political and Social Sciences, Université Catholique de Lille)</span>   [francois.briatte@univ-catholille.fr](mailto:francois.briatte@univ-catholille.fr )
+__François Briatte__
 
-- __Célya Gruson-Daniel__ <span style="font-size:0.66em;">(Centre Virchow-Villermé de santé publique Paris-Berlin, Université de Technologie de Compiègne, et Université de Laval-Québec)</span>   [celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)
+<span style="font-size:0.66em;">European School of Political and Social Sciences<br />
+Université Catholique de Lille<br />
+[francois.briatte@univ-catholille.fr](mailto:francois.briatte@univ-catholille.fr )
+</span>
 
-Présentation et bibliographie disponibles en ligne&nbsp;:  
+__Célya Gruson-Daniel__
+
+<span style="font-size:0.66em;">Centre Virchow-Villermé de santé publique Paris-Berlin<br />
+Université de Technologie de Compiègne<br />
+Université de Laval-Québec)<br />
+[celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)</span>
+
+Présentation et bibliographie&nbsp;:  
 [`gitpitch.com/celyagd/ODS`](https://gitpitch.com/celyagd/ODS)  
