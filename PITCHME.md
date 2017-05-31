@@ -409,5 +409,6 @@ Célya Gruson-Daniel
 
 [celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)
 
-Présentation et bibliographie&nbsp;:  
+Présentation et bibliographie&nbsp;:
+
 [`gitpitch.com/celyagd/ODS`](https://gitpitch.com/celyagd/ODS)
