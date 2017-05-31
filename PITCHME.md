@@ -163,12 +163,12 @@ Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouv
 
 ---
 
-### Open Data & Santé : une entrée par les acteurs
+<!-- ### Open Data & Santé : une entrée par les acteurs
 
 
  > Quelles recompositions l'« open big data » provoque dans le domaine de la santé et de sa quantification ?
 
-+++
++++ -->
 
 ### Open Data & Santé - une entrée par les acteurs pour :
 
@@ -185,7 +185,7 @@ Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouv
 
 2/ **Épidemium : Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
 
-+++
+<!-- +++
 
 ### Open Data & Santé : approche exploratoire et embarquée
 
@@ -197,7 +197,7 @@ Observation participante :
 - suivi de listes de discussions ;
 - échanges avec les acteurs impliqués.
 
-<!-- ---
+---
 
 ### Open Data & Santé : Cadre théorique (1)
 
