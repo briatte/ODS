@@ -153,7 +153,7 @@ l'exemple d'[Opentrials](https://opentrials.net/)
 
 +++
 
-On peut rajouter aussi les données **du «&nbsp;soi quantifié&nbsp;»** issues des applis *e-santé/m-mobile*.
+On peut rajouter aussi les données du **«&nbsp;soi quantifié&nbsp;»** issues des applis *e-santé/m-mobile*.
 
 <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
@@ -280,11 +280,11 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 #### 2/ Epidemium : un dispositif frontière dans l’ouverture de données en santé
 
-**Dispositif frontière** - un assemblage hétérogène regroupant à la fois :
+Dispositif frontière - un assemblage hétérogène regroupant à la fois :
 - Des institutions privées, publiques ;
 - la mise en place de normes, d'insfrastructures, d'un langage commmun (jeux d’ inter-médiations).
 
-==> co-production de la *data* et construction des modalités même de l’ouverture.
+==> **co-production de la *data* et construction des modalités même de l’ouverture.**
 
 ---
 
@@ -300,7 +300,7 @@ Qu’entend-on par *open big data*&nbsp;? Une définition commune à trouver.
 **Données personnelles** (pour le médecin), **données «&nbsp;à libérer** &nbsp;»(compte à rendre à la communauté), données à anonymiser ou à «&nbsp;fausser&nbsp;» **(*fake data*)**.
 ==> dépendantes de l’idée même d’ouverture et de ses enjeux ;
 
-Démystification du *big data* : travail sur des petits jeux de données (*dataset*) ;
+**Démystification du *big data* ** : travail sur des petits jeux de données (*dataset*) ;
 
 +++
 
@@ -345,7 +345,7 @@ Partage, transparence, travail collaboratif...
 
 VS
 
-**Nouvelles logiques gestionnaires** : mesure de l'efficacité et de la performance des équipes.
+**logiques gestionnaires** : mesure de l'efficacité et de la performance des équipes.
 
 ---
 
@@ -353,7 +353,7 @@ VS
 
 Pour contribuer à cette journée :
 
-- Chiffres privés/publics : **distinction floue**  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
+- Chiffres privés/publics : distinction floue  ==> proposition d'une **grille de lecture par le degré d’ouverture** souhaité ;
 
 - nouveaux acteurs et dispositifs frontières ==> des **recompositions** à la fois basées sur des **processus de compétition** mais aussi d'articulation/**coopération** ;
 
