@@ -183,11 +183,11 @@ Des données privées difficiles à « ouvrir » :
 
 <!--problème côté demande -->
 <!-- ... surtout si les données sont longitudinales -->
-<!--problème côté offre -->
+<!--problème côté offre : valeur intrinsèque -->
 <!-- ... y compris pour les agences publiques ! -->
 
 - __Risque de réidentification__ des consommateurs
-- __Valeur commerciale__ intrinsèque pour les producteurs
+- __Valeur commerciale__ pour les producteurs
 
 ---
 
@@ -202,7 +202,7 @@ Un __système de collecte parallèle__ à celui de l'État :
 
 ---
 
-### L'ouverture d'une « donnée » bien particulière
+### L'ouverture d'une « donnée » sensible
 
 Comment faire la transparence sur les __revenus des professionnels de santé__ ?
 <!-- médecins, mais aussi... présidence de la HAS -->
@@ -212,18 +212,29 @@ Comment faire la transparence sur les __revenus des professionnels de santé__ 
 
 +++
 
-<img src="./img/lundbeck.png" alt="Fichier 'Sunshine' Lundbeck" style="width: 600px;"/>
+<a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"><img src="./img/lundbeck.png" alt="Fichier 'Sunshine' Lundbeck" style="width: 600px;"/></a>
 
-### Trois initiatives récentes (c. 2011-2017)
+---
 
-- L'__Initiative Transparence Santé__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
-- La __Base [Transparence Santé](https://www.transparence.sante.gouv.fr/)__
+### Trois initiatives récentes
+
+- L'__[Initiative Transparence Santé](https://web.archive.org/web/20130701000000*/http://www.opendatasante.com/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
 - Le « __[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__ » de l'association Regards Citoyens
+
++++
+
+<img src="./img/sunshine_rc.png" alt="Sunshine RC" style="width: 600px;"/>
 
 ### Les motivations des acteurs
 
-- __Acteurs publics__ : répondre au scandale du Mediator… sans forcer la main aux laboratoires
-- __Acteurs privés__ : préserver la rentabilité des contrats 
+- __Acteurs publics__ : répondre au scandale du Mediator
+- __Acteurs privés__ : préserver la rentabilité des contrats
+- __Société civile__ : conscientiser l'activité médicale
+
+### Les stratégies déployées
+
+- 
 
 ---
 
