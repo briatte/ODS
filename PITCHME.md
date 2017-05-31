@@ -165,24 +165,6 @@ Trois initiatives récentes&nbsp;:
 - La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
 - Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
 
-+++
-
-<span style="font-size:0.66em;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a> (2013)</span>
-
-<img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
-
-+++
-
-<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Transparence Santé</a> (2014)</span>
-
-<img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
-
-+++
-
-<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Projet «&nbsp;Sunshine&nbsp;»</a> (2015)</span>
-
-<img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
-
 ---
 
 ### De quoi parle-t-on&nbsp;?
@@ -238,7 +220,7 @@ __revenus des professionnels de santé__&nbsp;?
 - Sources publiques&nbsp;: __rapports IGAS, DREES, HCAAM__
 - Sources privées&nbsp;: __déclarations des laboratoires__
 
-+++
+---
 
 <span style="font-size:0.66em;">Fichier «&nbsp;Sunshine 2013&nbsp;» du laboratoire Lundbeck</span>
 
@@ -253,9 +235,9 @@ Pour les __acteurs publics__&nbsp;:
 <!-- évitement du blâme : éviter les scandales -->
 - Améliorer la sécurité sanitaire
 - Limiter les conflits d'intérêt
-<!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, collusions autour des AMM u de la fixation des prix des médicaments -->
+<!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, collusions autour des AMM ou de la fixation des prix des médicaments -->
 
-+++
+### Les motivations des acteurs
 
 Pour les __acteurs privés__&nbsp;:
 
@@ -272,13 +254,37 @@ Pour les __acteurs privés__&nbsp;:
 - Faire __pression en privé__
 - Rendre les données ___lisibles___
 
-+++
+---
 
-<span style="font-size:0.66em;color:#666;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 22 février 2014</span>
+<span style="font-size:0.66em;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 2013</span>
+
+<img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
+
+---
+
+<span style="font-size:0.66em;color:#666;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 2014</span>
 
 <img src="./img/its_cartogramme_mediator.png" alt="ITS_Mediator" style="width:100%"/>
 
 <!--https://www.data.gouv.fr/fr/reuses/cartogramme-des-consommateurs-de-mediator-en-france/ -->
+
+---
+
+<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Transparence Santé</a> (2014)</span>
+
+<img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
+
+---
+
+<span style="font-size:0.66em;"><a href="http://www.formindep.org/La-transparence-est-une-course-de.html">Formindep</a> (2016)</span>
+
+<img src="./img/action_formindep.png" alt="Chronologie_Formindep" style="width:100%;"/>
+
+---
+
+<span style="font-size:0.66em;"><a href="https://www.regardscitoyens.org/sunshine/">Projet «&nbsp;Sunshine&nbsp;»</a> (2015)</span>
+
+<img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
 
 ---
 
