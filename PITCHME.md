@@ -35,7 +35,7 @@ Méthodes statistiques complétées par&nbsp;: fouille de données (*data mining
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[Site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*</span>
+<span style="font-size:0.66em;color:#666;">*[Site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*</span>
 ![SFdS](./img/sfds.png)
 
 ---
@@ -49,13 +49,13 @@ Passage des qualificatifs de&nbsp;:
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[Site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
+<span style="font-size:0.66em;color:#666;">*[Site data.gouv.fr-17-05-29](http://www.data.gouv.fr/fr/)*</span>
 
 <img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 900px;"/>
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[Site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
+<span style="font-size:0.66em;color:#666;">*[Site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
 <img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 900px;"/>
 
@@ -70,14 +70,14 @@ Passage des qualificatifs de&nbsp;:
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
+<span style="font-size:0.66em;color:#666;">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
 <img src="./img/epidemium_flot.png" alt="Epidemium" style="width: 900px;"/>
 
 
 +++
 
-<span style="font-size:0.5em; color:gray"> *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
+<span style="font-size:0.66em;color:#666;"> *[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
 <img src="./img/epidemium_open.png" alt="Epidemium_communauté" style="width: 900px;"/>
 
@@ -86,14 +86,14 @@ Passage des qualificatifs de&nbsp;:
 
 ### Imaginaire numérique et *data*
 
-*Open Big Data*&nbsp;: **une formule** <span style="font-size:0.5em; color:gray">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts**&nbsp;:
+*Open Big Data*&nbsp;: **une formule** <span style="font-size:0.66em;color:#666;">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts**&nbsp;:
 
   - *Big data*&nbsp;: maitrise technique, enjeux économiques, avantages compétitifs ;
   - *open data*&nbsp;: enjeu gestionnaire, économique, démocratique.
 
 +++
 
-<span style="font-size:0.5em; color:gray">*[Infographie Roche&nbsp;: La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*</span>
+<span style="font-size:0.66em;color:#666;">*[Infographie Roche&nbsp;: La Big Data au coeur de la santé](http://www.roche.fr/innovation-recherche-medicale/big-data-sante/infographie.html)*</span>
 
 <img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 900px;"/>
 
@@ -106,13 +106,13 @@ Passage des qualificatifs de&nbsp;:
 
 +++
 
-<span style="font-size:0.5em; color:gray">[Loi pour une République Numérique - 16-10-07 ](https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14)</span>
+<span style="font-size:0.66em;color:#666;">[Loi pour une République Numérique - 16-10-07 ](https://www.legifrance.gouv.fr/affichLoiPubliee.do?idDocument=JORFDOLE000031589829&type=general&legislature=14)</span>
 
 <img src="./img/loi_repnum.png" alt="Loi pour une République numérique" style="width: 600px;"/>
 
 +++
 
-<span style="font-size:0.5em; color:gray">[Site CADA.fr](http://www.cada.fr/)</span>
+<span style="font-size:0.66em;color:#666;">[Site CADA.fr](http://www.cada.fr/)</span>
 
 <img src="./img/cada.png" alt="Site CADA.fr" style="width: 600px;"/>
 
@@ -121,7 +121,7 @@ Passage des qualificatifs de&nbsp;:
 **Une mise à disposition de données publiques dans la mouvance  «&nbsp;*open government*»&nbsp;»**
 
 
-*Open data*&nbsp;: continuum entre régime de performance et régime démocratique&nbsp;: <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
+*Open data*&nbsp;: continuum entre régime de performance et régime démocratique&nbsp;: <span style="font-size:0.66em;color:#666;">(Ogien, 2010)</span>
   - Dans la lignée de la **«&nbsp;modernisation&nbsp;»** de l’État (productivié, efficacité) ;
   - injonction forte d’accès et de transparence mais aussi de participation  ==>  **«&nbsp;simplification&nbsp;»** pour mieux faire circuler.
 
@@ -141,7 +141,7 @@ Mais ouverture d'autres données revendiquée&nbsp;:
 
 l’exemple d'[Opentrials](https://opentrials.net/)
 
-<span style="font-size:0.5em; color:gray">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
+<span style="font-size:0.66em;color:#666;">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
 <img src="./img/opentrials.png" alt="Vidéo Opentrials" style="width: 600px;"/>
 
@@ -149,7 +149,7 @@ l’exemple d'[Opentrials](https://opentrials.net/)
 
 On peut rajouter aussi les données du **«&nbsp;soi quantifié&nbsp;»** issues des applis *e-santé/m-mobile*.
 
-<span style="font-size:0.5em; color:gray">[Cahier prospectif&nbsp;: le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
+<span style="font-size:0.66em;color:#666;">[Cahier prospectif&nbsp;: le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
 +++
 
@@ -159,9 +159,9 @@ Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «
 
 ### Cas d’étude 1&nbsp;:<br />«&nbsp;ouvrir&nbsp;» des données de santé
 
-Trois initiatives récentes&nbsp:
+Trois initiatives récentes&nbsp;:
 
-- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.66em;color:#666;">(Briatte et Goëta, 2014)</span>
 - La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
 - Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
 
@@ -256,7 +256,7 @@ __revenus des professionnels de santé__&nbsp;?
 
 ### Cas d’étude 2&nbsp;: *open data* en épidémiologie du cancer&nbsp;: le projet de recherche Epidemium
 
-<span style="font-size:0.5em; color:gray">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
+<span style="font-size:0.66em;color:#666;">[Page d'accueil d'Epidemium-17-05-29](http://www.epidemium.cc)</span>
 
 
 <img src="./img/epidemium_home.png" alt="Epidemium_Home" style="width: 600px;"/>
@@ -266,7 +266,7 @@ __revenus des professionnels de santé__&nbsp;?
 
 #### 1/ Un renouvellement des rhétoriques de la promesse
 
-<span style="font-size:0.5em; color:gray">[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
+<span style="font-size:0.66em;color:#666;">[Communiqué de presse Epidemium- Juillet 2015](http://www.epidemium.cc/images/Communiqu%C3%A9%20Roche%20La%20Paillasse%20du%2006.07.15%20Lancement%20Epidemium.pdf)</span>
 
 <img src="./img/cp_epidemium_2015.png" alt="Communiqué de presse Epidemium" style="width: 600px;"/>
 
@@ -275,7 +275,7 @@ __revenus des professionnels de santé__&nbsp;?
 
 #### 1/ Un renouvellement des rhétoriques de la promesse  
 
-*Open big data*&nbsp;: une nouvelle **rhétorique de la promesse** à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.5em; color:gray">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
+*Open big data*&nbsp;: une nouvelle **rhétorique de la promesse** à la fois scientifique, médicale et économique employée dans le domaine de la santé <span style="font-size:0.66em;color:#666;">(Dalgalarrondo et Hauray, 2015 ; Novas, 2006)</span>  
 
 ==> une nécessité d'**articuler des acteurs aux intérêts divers** (progrès scientifique et thérapeutique, logique économique, etc.)
 
@@ -284,7 +284,7 @@ __revenus des professionnels de santé__&nbsp;?
 
 #### 2/ Epidemium&nbsp;: un dispositif frontière dans l’ouverture de données en santé
 
-<span style="font-size:0.5em; color:gray">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
+<span style="font-size:0.66em;color:#666;">*[CC-BY-ND-Epidemium](http://www.epidemium.cc/white-paper-fr/index.html)*</span>
 
 <img src="./img/epidemium_frontiere.png" alt="Epidemium-frontière" style="width: 400px;"/>
 
