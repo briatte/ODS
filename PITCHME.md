@@ -217,6 +217,8 @@ Un __système de collecte parallèle__ à celui de l’État&nbsp;:
 - Démarchage des __cabinets médicaux__ <span style="font-size: 0.66em;">(et des pharmacies)</span>
 - Contractualisation avec les __professionnels__
 - Demandes CADA auprès des __agences sanitaires__
+
+<!-- ... et aussi : scraping du site CNAMTS (Ameli) ! -->
 <!-- Pierre-Louis Bras (IGAS), rapp. gouvernance et utilisation des données de santé, 2013 : les industries n'ont pas besoin des données, elles les ont déjà ! -->
 
 ---
@@ -225,7 +227,6 @@ Un __système de collecte parallèle__ à celui de l’État&nbsp;:
 
 Comment faire la transparence sur les <br />
 __revenus des professionnels de santé__&nbsp;?
-<!-- médecins, mais aussi... présidence de la HAS -->
 
 - Sources publiques&nbsp;: __rapports IGAS, DREES, HCAAM__
 - Sources privées&nbsp;: __déclarations des laboratoires__
@@ -240,9 +241,21 @@ __revenus des professionnels de santé__&nbsp;?
 
 ### Les motivations des acteurs
 
-- __Acteurs publics__&nbsp;: répondre au scandale du Mediator
-- __Acteurs privés__&nbsp;: préserver la rentabilité des contrats
+Pour les __acteurs publics__&nbsp;:
+
+<!-- évitement du blâme : éviter les scandales -->
+- Améliorer la sécurité sanitaire
+- Limiter les conflits d'intérêt
+<!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, ... -->
+
++++
+
+Pour les __acteurs privés__&nbsp;:
+
+- __Industriels installés__&nbsp;: préserver la rentabilité des contrats
+- __Industriels nouveaux-entrants__&nbsp;: provoquer un choc d'offre
 - __Société civile__&nbsp;: conscientiser l’activité médicale
+<!-- càd. rendre les conflits d'intérêts apparents, à des fins de dénonciation : naming/shaming ; idem revenus des députés et dépenses IRFM (Indemnité représentative de frais de mandat) -->
 
 ---
 
