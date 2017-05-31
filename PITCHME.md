@@ -1,18 +1,9 @@
 ### L’ouverture des données de santé&nbsp;: une entrée par les acteurs
 
 
-**[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org)&nbsp;: Calculs, comptabilités et statistiques XVIIe-XXIe siècle**
+Journée d’études «&nbsp;[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org)&nbsp;», 31 mai 2017
 
 Session «&nbsp;Co-production de chiffres publics&nbsp;»
-
-*Journée d’études 31 mai 2017*
-
-
-+++
-
-- __François Briatte__&nbsp;:  European School of Political and Social Sciences, Université Catholique de Lille [francois.briatte@univ-catholille.fr](francois.briatte@univ-catholille.fr )
-
-- __Célya Gruson-Daniel__&nbsp;: Centre Virchow-Villermé de santé publique Paris-Berlin, Université de Technologie de Compiègne (Costech), Université de Laval-Québec (LabCMO) [celya.gruson-daniel@parisdescartes.fr](celya.gruson-daniel@parisdescartes.fr)
 
 ---
 
@@ -409,9 +400,9 @@ Pour contribuer à cette journée&nbsp;:
 
 ### Merci de votre attention
 
+- __François Briatte__&nbsp;:  European School of Political and Social Sciences, Université Catholique de Lille   [francois.briatte@univ-catholille.fr](mailto:francois.briatte@univ-catholille.fr )
 
-François Briatte&nbsp;:  [francois.briatte@univ-catholille.fr](francois.briatte@univ-catholille.fr ) et Célya Gruson-Daniel&nbsp;:  [celya.gruson-daniel@parisdescartes.fr](celya.gruson-daniel@parisdescartes.fr)
+- __Célya Gruson-Daniel__&nbsp;: Centre Virchow-Villermé de santé publique Paris-Berlin, Université de Technologie de Compiègne (Costech), Université de Laval-Québec (LabCMO)   [celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)
 
-
-
-Présentation disponible [en ligne](https://gitpitch.com/celyagd/ODS) et bibliographie sur [Zotero](https://www.zotero.org/groups/hackyourphd/items/collectionKey/N7TDJKM2)
+Présentation et bibliographie disponibles en ligne&nbsp;:  
+[`gitpitch.com/celyagd/ODS`](https://gitpitch.com/celyagd/ODS)  
