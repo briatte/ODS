@@ -45,14 +45,13 @@ Méthodes statistiques complétées par : fouille de données (*data mining*), 
 <span style="font-size:0.5em; color:gray">*[Site de la Société Française de Statistique-17-05-29](https://www.sfds.asso.fr/)*</span>
 ![SFdS](./img/sfds.png)
 
-
 ---
 
 ### Des chiffres à la *data*
 
 Passage des qualificatifs de :  
 
-- Publics/ privés  ->  *open*, données ouvertes, d'intérêt général, sensibles, personnelles ;
+- Publics/ privés &rarr; *open*, données ouvertes, d'intérêt général, sensibles, personnelles ;
 - mais aussi *big*, *smart*, donnée utile...
 
 +++
