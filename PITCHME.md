@@ -167,8 +167,6 @@ On peut rajouter aussi les données du «&nbsp;soi quantifié&nbsp;» issues des
 
 <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
-<img src="./img/cnil_corps_ip.png" alt="CNIL" style="width: 100px;"/>
-
 +++
 
 Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «&nbsp;ouvrir des données&nbsp;»&nbsp;? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)&nbsp;?
