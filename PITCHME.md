@@ -69,10 +69,10 @@ Passage des qualificatifs de :
 
 ### Imaginaire numérique et *data*
 
-Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d’un point de vue :
+**Horizons d’attentes** fortes autour de ce «&nbsp;monde des données&nbsp;» d’un point de vue :
 
-- Économique, social, scientifique, politique dans de nombreux domaines (effet «&nbsp;pervasif&nbsp;» du numérique) ; <span style="font-size:0.5em">*(Boullier, 2016) *</span>
-- associés à un imaginaire numérique : idéal du partage, de la transparence, de la collaboration. <span style="font-size:0.5em">*(Gruson-Daniel et al., 2016;  Ibekwe-Sanjuan et al., 2015; Turner, 2012)*</span>
+- **Économique, social, scientifique, politique** dans de nombreux domaines (effet «&nbsp;pervasif&nbsp;» du numérique) ; <span style="font-size:0.5em">*(Boullier, 2016) *</span>
+- associés à un imaginaire numérique : **idéal du partage, de la transparence, de la collaboration.** <span style="font-size:0.5em">*(Gruson-Daniel et al., 2016;  Ibekwe-Sanjuan et al., 2015; Turner, 2012)*</span>
 
 +++
 
@@ -92,7 +92,7 @@ Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d�
 
 ### Imaginaire numérique et *data*
 
-*Open Big Data* : une formule <span style="font-size:0.5em; color:gray">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
+*Open Big Data* : **une formule** <span style="font-size:0.5em; color:gray">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
 
   - *Big data* : maitrise technique, enjeux économiques, avantages compétitifs ;
   - *open data* : enjeu gestionnaire, économique, démocratique.
@@ -108,7 +108,7 @@ Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d�
 
 **Une mise à disposition de données publiques dans la mouvance  « *open government*» »**
 
-- Loi République Numérique - 7 octobre 2017 : vient achever long parcours juridique (notion de données d’intérêt général, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
+- **Loi République Numérique - 7 octobre 2017** : vient achever long parcours juridique (notion de **données d’intérêt général**, mission de service public de la donnée, droit à l’*open data* à la suite de la loi CADA).
 
 +++
 
@@ -128,8 +128,8 @@ Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d�
 
 
 *Open data* : continuum entre régime de performance et régime démocratique : <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
-  - Dans la lignée de la «&nbsp;modernisation&nbsp;» de l’État (productivié, efficacité) ;
-  - injonction forte d’accès et de transparence mais aussi de participation  ==>  «&nbsp;simplification&nbsp;» pour mieux faire circuler.
+  - Dans la lignée de la **«&nbsp;modernisation&nbsp;»** de l’État (productivié, efficacité) ;
+  - injonction forte d’accès et de transparence mais aussi de participation  ==>  **«&nbsp;simplification&nbsp;»** pour mieux faire circuler.
 
 ---
 
@@ -137,7 +137,7 @@ Horizons d’attentes fortes autour de ce «&nbsp;monde des données&nbsp;» d�
 
 Définition de l’*open data* dans le domaine de la santé, en pratique :
 
-- Dans le contexte de la loi, que peut-on définir comme donnée d’intérêt général (social, économique et environnemental)&nbsp;?
+- Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
 
 - partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
@@ -153,7 +153,7 @@ l'exemple d'[Opentrials](https://opentrials.net/)
 
 +++
 
-On peut rajouter aussi les données du «&nbsp;soi quantifié&nbsp;» issues des applis *e-santé/m-mobile*.
+On peut rajouter aussi les données **du «&nbsp;soi quantifié&nbsp;»** issues des applis *e-santé/m-mobile*.
 
 <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
@@ -353,7 +353,7 @@ VS
 
 Pour contribuer à cette journée :
 
-- Chiffres privés/publics : **frontière qui s'estompe**  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
+- Chiffres privés/publics : **distinction floue**  ==> proposition d'une grille de lecture par le degré d’ouverture souhaité ;
 
 - nouveaux acteurs et dispositifs frontières ==> des **recompositions** à la fois basées sur des **processus de compétition** mais aussi d'articulation/**coopération** ;
 
