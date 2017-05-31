@@ -270,7 +270,12 @@ Pour les __acteurs privés__&nbsp;:
 
 ---
 
+### Qu'a-t-on observé&nbsp;?
 
+<!-- les contraintes et les dissensions ne sont pas seulement administratives, scientifiques ou techniques : économiques (commerciales) et politiques -->
+- Des __données sous tension__
+- Une __ouverture sous contrainte__
+<!-- ouverture qui prend la forme d'une entreprise de libération sous la pression circonstancielle d'acteurs économiquement ou politiquement motivés -->
 
 ---
 
@@ -397,6 +402,7 @@ Pour contribuer à cette journée&nbsp;:
 
     - Une **légitimité par la maitrise de la technique**, de la «&nbsp;*data science*&nbsp;» ;
     - une **responsabilité re-portée sur la technique**.
+
 ---
 
 ### Merci de votre attention
