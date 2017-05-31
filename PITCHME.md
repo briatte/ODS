@@ -133,13 +133,13 @@ Définition de l’*open data* dans le domaine de la santé, en pratique&nbsp;:
 
 - Dans le contexte de la loi, que peut-on définir comme données d’intérêt général (social, économique et environnemental)&nbsp;?
 
-- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l'[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
+- partage restreint des données sanitaires issues des institutions publiques et privées hospitalières et de santé ⇒ création de l’[Institut des Données de Santé](http://www.institut-des-donnees-de-sante.fr/)
 
 +++
 
 Mais ouverture d'autres données revendiquée&nbsp;:
 
-l'exemple d'[Opentrials](https://opentrials.net/)
+l’exemple d'[Opentrials](https://opentrials.net/)
 
 <span style="font-size:0.5em; color:gray">[Vidéo présentation Opentrials](https://opentrials.net/)</span>
 
@@ -165,7 +165,8 @@ Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
 
 <!--problème côté demande -->
 <!-- ... surtout si les données sont longitudinales -->
-<!--problème côté offre&nbsp;: valeur intrinsèque -->
+
+<!--problème côté offre : valeur compétitive intrinsèque -->
 <!-- ... y compris pour les agences publiques ! -->
 
 - __Risque de réidentification__ des consommateurs
@@ -173,21 +174,22 @@ Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
 
 ---
 
-### L'accès aux données dans les agences publiques
+### L’accès aux données dans les agences publiques
 
 Un __régime d'accès fragmenté__ en miroir de la gouvernance du système de santé&nbsp;:
 <!-- régime bismarckien universalisé -->
 
 <!-- HAS = ex-ANAES, ANSM = ex-AFSSAPS, ARS = HPST (préfig. Juppé) -->
-- Accès (DGS, HAS, ANSM, ARS, CEPS…) ≠ Accès (CNAM, URCAM)
+- Accès «&nbsp;État&nbsp;» (DGS, HAS, ANSM, ARS, CEPS…)<br />
+  ≠ Accès «&nbsp;Assurance-maladie&nbsp;» (CNAM, URCAM)
 - Autorisations requises : CADA et CNIL <span style="font-size: 0.66em;">(CCTIRS, IDS)</span>
 <!-- CCTIRS = Comité consultatif sur le traitement de l’information en matière de recherche dans le domaine de la santé -->
 
 ---
 
-### L'accès aux données dans l'industrie sanitaire
+### L’accès aux données dans l’industrie sanitaire
 
-Un __système de collecte parallèle__ à celui de l'État&nbsp;:
+Un __système de collecte parallèle__ à celui de l’État&nbsp;:
 <!-- i.e. du service public -->
 
 - Démarchage des __cabinets médicaux__ <span style="font-size: 0.66em;">(et des pharmacies)</span>
@@ -215,7 +217,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 ### Trois initiatives récentes
 
-- L'__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
 - La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
 - Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
 
@@ -237,7 +239,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 - __Acteurs publics__&nbsp;: répondre au scandale du Mediator
 - __Acteurs privés__&nbsp;: préserver la rentabilité des contrats
-- __Société civile__&nbsp;: conscientiser l'activité médicale
+- __Société civile__&nbsp;: conscientiser l’activité médicale
 
 ---
 
@@ -326,7 +328,7 @@ D’un accès  «&nbsp;maitrisé&nbsp;»  à un libre accès - **gradient de l�
 #### 3/ Inter-médiations à l’œuvre&nbsp;: une co-construction double&nbsp;: celle de la donnée et des modalités de son ouverture.
 
 
-Quel **cadre socio-technique** pensé/imaginé pour l'ouverture des données&nbsp;?
+Quel **cadre socio-technique** pensé/imaginé pour l’ouverture des données&nbsp;?
 
 +++
 
@@ -352,7 +354,7 @@ Partage, transparence, travail collaboratif...
 
 VS
 
-**logiques gestionnaires**&nbsp;: mesure de l'efficacité et de la performance des équipes.
+**logiques gestionnaires**&nbsp;: mesure de l’efficacité et de la performance des équipes.
 
 ---
 
