@@ -16,6 +16,19 @@ Co-production de chiffres publics
 
 ---
 
+### _Open data_ et santé - une entrée par les acteurs pour :
+
+1. Comprendre les processus en jeu dans l'__ouverture des données de santé__
+2. Observer les dynamiques en cours entre les __différentes parties prenantes__ provenant à la fois de la sphère publique et privée.
+
+Deux cas d'étude :
+
+1/ ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour redéfinir un espace socio-économique
+
+2/ **Épidemium – Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
+
+---
+
 ### Des chiffres à la *data*
 
 Passage des notions de :
@@ -78,6 +91,7 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
 
 ---
+
 ### Imaginaire numérique et *data*
 
 *Open Big Data* : une formule <span style="font-size:0.5em; color:gray">(Krieg-Planque, 2009)</span> employée par tous mais des **significations multiples** qui révèlent différents **enjeux et intérêts** :
@@ -93,16 +107,17 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 <img src="./img/roche_infographie.png" alt="Roche_infographie" style="width: 900px;"/>
 
 
----
+<!-- ---
+
 ### L'*open data* en santé
 
 « Mettre la santé en chiffres » aujourd'hui :
 
-Entre nouvelles spécificités et continuité des caractéristiques de la quantification.
+Entre nouvelles spécificités et continuité des caractéristiques de la quantification. -->
 
 ---
 
-### L’*open data en santé* : quelles significations ?
+### L’*open data* en santé
 
 
 **Une mise à disposition de données publiques dans la mouvance  « open gov »**
@@ -131,7 +146,7 @@ Entre nouvelles spécificités et continuité des caractéristiques de la quanti
 
 ---
 
-### L’Open data en santé : quelles significations ?
+### L’open data en santé : quelles significations ?
 
 Définition de l’*open data* dans le domaine de la santé, en pratique :
 
@@ -169,21 +184,6 @@ Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouv
  > Quelles recompositions l'« open big data » provoque dans le domaine de la santé et de sa quantification ?
 
 +++ -->
-
-### Open Data & Santé - une entrée par les acteurs pour :
-
-
-- Comprendre les processus en jeu dans l'ouverture des données de santé ;
-- observer les dynamiques en cours entre les différentes parties prenantes provenant à la fois de la sphère publique et privée.
-
----
-
-### Open Data & Santé : deux cas d'étude
-
-
-1/ **Ouverture de données publiques de santé** (SNIIRAM-DAMIR) ==> place des acteurs privés et redéfinition de leur rôle dans un espace préexistant ;
-
-2/ **Épidemium : Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
 
 <!-- +++
 
