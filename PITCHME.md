@@ -28,8 +28,8 @@ Session «&nbsp;Co-production de chiffres publics&nbsp;»
 
 Passage des notions de&nbsp;:
 
-- Chiffres &rarr; *data*- Chiffres ->  *data* ;
-- Calcul &rarr; méthodes algorithmiques- calcul -> méthodes algorithmiques ;
+- Chiffres &rarr; *data*
+- Calcul &rarr; méthodes algorithmiques
 
 Méthodes statistiques complétées par&nbsp;: fouille de données (*data mining*), classification (*clustering*), apprentissage (non) supervisé (*machine learning*), …
 
