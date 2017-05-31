@@ -44,8 +44,8 @@ Méthodes statistiques complétées par&nbsp;: fouille de données (*data mining
 
 Passage des qualificatifs de&nbsp;:  
 
-- Publics/ privés &rarr; *open*, données ouvertes, d'intérêt général, sensibles, personnelles ;
-- mais aussi *big*, *smart*, donnée utile...
+- Publics/ privés &rarr; *open*, données ouvertes, d'intérêt général, sensibles, personnelles
+- Mais aussi&nbsp; *big data*, *smart data*, «&nbsp;données utiles&nbsp;», ...
 
 +++
 
@@ -194,7 +194,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 +++
 
-<!-- <a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"></a> -->
+<span style="font-size:0.66em;">Fichier «&nbsp;Sunshine 2013&nbsp;» du laboratoire Lundbeck</span>
 
 <img src="./img/lundbeck.png" alt="Sunshine_Lundbeck" style="width:100%;"/>
 
@@ -202,7 +202,7 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 ### Trois initiatives récentes
 
-- L'__[Initiative Transparence Santé](https://web.archive.org/web/20130701000000*/http://www.opendatasante.com/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- L'__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
 - La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
 - Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
 
