@@ -165,74 +165,13 @@ l'exemple d'[Opentrials](https://opentrials.net/)
 
 On peut rajouter aussi les données du « soi quantifié » issues des applis *e-santé/m-mobile*.
 
- <span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
+<span style="font-size:0.5em; color:gray">[Cahier prospectif : le corps, nouvel objet connecté - CNIL]( https://www.cnil.fr/sites/default/files/typo/document/CNIL_CAHIERS_IP2_WEB.pdf)</span>
 
- <img src="./img/cnil_corps_ip.png" alt="CNIL" style="width: 100px;"/>
-
-+++
-
-Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.)?
-
----
-
-<!-- ### Open Data & Santé : une entrée par les acteurs
-
-
- > Quelles recompositions l'« open big data » provoque dans le domaine de la santé et de sa quantification ?
+<img src="./img/cnil_corps_ip.png" alt="CNIL" style="width: 100px;"/>
 
 +++
 
-..............
-
-+++
-
-### Open Data & Santé : approche exploratoire et embarquée
-
-
-Observation participante :
-
-- Participation à des réunions, meetup, etc.
-- lecture de rapports, livre blanc ;
-- suivi de listes de discussions ;
-- échanges avec les acteurs impliqués.
-
----
-
-### Open Data & Santé : Cadre théorique (1)
-
-Étude de la construction sociale des chiffres/données, de leurs usages et de leurs valeurs attribuées dans les sphères :
-
-- De l’action publique : politiques de la quantification <span style="font-size:0.5em; color:gray">(Bardet et Jany-Catrice, 2010)</span>, usages de la statistique publique <span style="font-size:0.5em; color:gray">(Desrosières, 2005)</span>, valeur sociale du chiffre ; <span style="font-size:0.5em; color:gray">(Ogien, 2010)</span>
-
-
-+++
-
-### Open Data & Santé : Cadre théorique (1)
-
-- de l’activité scientifique : construction des bases de donnée <span style="font-size:0.5em; color:gray">(Bowker et Star, 2000)</span>, travail invisible <span style="font-size:0.5em; color:gray">(Mauz et Granjou, 2011)</span>, enjeux des inter-médiations ; <span style="font-size:0.5em; color:gray">(Schlierf et Meyer, 2013)</span>
-
-+++
-
-### Open Data & Santé : Cadre théorique (1)
-
-- et plus spécifiquement de la santé : rationalisation gestionnaire <span style="font-size:0.5em; color:gray">(Bertillot, 2016)</span>, nouveau *management* public <span style="font-size:0.5em; color:gray">(Belorgey, 2010)</span>, réformes des systèmes sanitaires. <span style="font-size:0.5em; color:gray">(Briatte, 2011, 2013; Hunsmann, 2016)</span>
-
----
-
-### Open Data & Santé : Cadre théorique (2)
-
-Appui sur des travaux récents - ce que les *data* et l’*open* provoquent :
-
-  - *Datafication* et reconfiguration de collectifs en science ; <span style="font-size:0.5em; color:gray">(Bastin et Francony, 2016 ; Gruson-Daniel Célya et De Quatrebarbes Constance, 2016)</span>
-  - institutionnalisation de pratiques numériques ; <span style="font-size:0.5em; color:gray">(Lhoste et Barbier, 2016)</span>
-
-+++
-
-### Open Data & Santé : Cadre théorique (2)
-
-
-  - administration publique et brutification des données ; <span style="font-size:0.5em; color:gray">(Denis et Goeta, 2013)</span>
-  - politiques de l'ouverture en santé. <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span> -->
+Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouvrir des données » ? Quels rôles pour de nouveaux acteurs dans ce domaine (régulateurs, détenteurs de données sur Internet, etc.) ?
 
 ---
 
