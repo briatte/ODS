@@ -197,7 +197,7 @@ Observation participante :
 - suivi de listes de discussions ;
 - échanges avec les acteurs impliqués.
 
----
+<!-- ---
 
 ### Open Data & Santé : Cadre théorique (1)
 
@@ -233,7 +233,7 @@ Appui sur des travaux récents - ce que les *data* et l’*open* provoquent :
 
 
   - administration publique et brutification des données ; <span style="font-size:0.5em; color:gray">(Denis et Goeta, 2013)</span>
-  - politiques de l'ouverture en santé. <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+  - politiques de l'ouverture en santé. <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span> -->
 
 ---
 
@@ -260,6 +260,8 @@ Un __système de collecte parallèle__ à celui du service public :
 - Démarchage des __cabinets médicaux__ et des __pharmacies__
 - Contractualisation avec les __professionnels__
 - Demandes CADA auprès des __agences sanitaires__
+
+---
 
 ### L'ouverture d'une « donnée » bien particulière
 
