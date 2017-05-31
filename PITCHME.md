@@ -16,13 +16,6 @@ Session « Co-production de chiffres publics »
 
 ---
 
-### _Open data_ et santé - une entrée par les acteurs pour :
-
-1. Comprendre les processus en jeu dans l'__ouverture des données de santé__
-2. Observer les dynamiques en cours entre les __différentes parties prenantes__
-
----
-
 ### Deux cas d'étude
 
 1. ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour reconfigurer un espace socio-économique
