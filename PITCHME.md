@@ -212,7 +212,9 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 
 +++
 
-<a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"><img src="./img/lundbeck.png" alt="Fichier Sunshine Lundbeck" style="width: 600px;"/></a>
+<!-- <a href="http://www.lundbeck.com/upload/fr/files/pdf/Fichiersunshine/Profsante_2013.pdf"></a> -->
+
+<img src="./img/lundbeck.png" alt="Sunshine_Lundbeck" style="width: 100%;"/>
 
 ---
 
