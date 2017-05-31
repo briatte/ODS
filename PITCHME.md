@@ -203,7 +203,8 @@ Un __régime d'accès fragmenté__ en miroir de la gouvernance du système de sa
 
 <!-- HAS = ex-ANAES, ANSM = ex-AFSSAPS, ARS = HPST (préfig. Juppé) -->
 - Accès «&nbsp;État&nbsp;» (DGS, HAS, ANSM, ARS, CEPS…)<br />
-  ≠ Accès «&nbsp;Assurance-maladie&nbsp;» (CNAM, URCAM)
+  ≠ Accès «&nbsp;Assurance-maladie&nbsp;» (CNAM, URCAM)<br />
+  ≠ Accès «&nbsp;Ordre&nbsp;» (CNOM, sociétés)
 - Autorisations requises : CADA et CNIL <span style="font-size: 0.66em;">(CCTIRS, IDS)</span>
 <!-- CCTIRS = Comité consultatif sur le traitement de l’information en matière de recherche dans le domaine de la santé -->
 
@@ -246,16 +247,16 @@ Pour les __acteurs publics__&nbsp;:
 <!-- évitement du blâme : éviter les scandales -->
 - Améliorer la sécurité sanitaire
 - Limiter les conflits d'intérêt
-<!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, ... -->
+<!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, collusions autour des AMM u de la fixation des prix des médicaments -->
 
 +++
 
 Pour les __acteurs privés__&nbsp;:
 
-- __Industriels installés__&nbsp;: préserver la rentabilité des contrats
-- __Industriels nouveaux-entrants__&nbsp;: provoquer un choc d'offre
+- __Industriels installés__&nbsp;: préserver la rentabilité
+- __Nouveaux entrants__&nbsp;: provoquer un choc d'offre
 - __Société civile__&nbsp;: conscientiser l’activité médicale
-<!-- càd. rendre les conflits d'intérêts apparents, à des fins de dénonciation : naming/shaming ; idem revenus des députés et dépenses IRFM (Indemnité représentative de frais de mandat) -->
+<!-- càd. rendre les sur-prescriptions et/ou les conflits d'intérêts apparents, à des fins de dénonciation : naming/shaming ; idem revenus des députés et dépenses IRFM (Indemnité représentative de frais de mandat) -->
 
 ---
 
@@ -264,6 +265,12 @@ Pour les __acteurs privés__&nbsp;:
 - Faire __pression en public__
 - Faire __pression en privé__
 - Rendre les données ___lisibles___
+
++++
+
+<span style="font-size:0.66em;color:#666;">Consommation de Mediator 2008–2010<br />(Initiative Transparence Santé, 22 février 2014)</span>
+
+<img src="./img/its_cartogramme_mediator.png" alt="ITS_Mediator" style="width:100%"/>
 
 ---
 
