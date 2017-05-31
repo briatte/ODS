@@ -157,7 +157,29 @@ Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «
 
 ---
 
-### Cas d’étude 1&nbsp;: «&nbsp;ouvrir&nbsp;» des données de santé
+### Cas d’étude 1&nbsp;:<br />«&nbsp;ouvrir&nbsp;» des données de santé
+
+Trois initiatives récentes&nbsp:
+
+- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
+- La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
+- Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
+
++++
+
+<img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
+
++++
+
+<img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
+
++++
+
+<img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
+
+---
+
+### De quoi parle-t-on&nbsp;?
 
 SNIIRAM (assurance-maladie), PMSI (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
 
@@ -201,7 +223,8 @@ Un __système de collecte parallèle__ à celui de l’État&nbsp;:
 
 ### Ouvrir une «&nbsp;donnée&nbsp;» sensible
 
-Comment faire la transparence sur les __revenus des professionnels de santé__&nbsp;?
+Comment faire la transparence sur les <br />
+__revenus des professionnels de santé__&nbsp;?
 <!-- médecins, mais aussi... présidence de la HAS -->
 
 - Sources publiques&nbsp;: __rapports IGAS, DREES, HCAAM__
@@ -212,26 +235,6 @@ Comment faire la transparence sur les __revenus des professionnels de santé__&n
 <span style="font-size:0.66em;">Fichier «&nbsp;Sunshine 2013&nbsp;» du laboratoire Lundbeck</span>
 
 <img src="./img/lundbeck.png" alt="Sunshine_Lundbeck" style="width:100%;"/>
-
----
-
-### Trois initiatives récentes
-
-- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.5em; color:gray">(Briatte et Goëta, 2014)</span>
-- La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
-- Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
-
-+++
-
-<img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
-
-+++
-
-<img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
-
-+++
-
-<img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
 
 ---
 
