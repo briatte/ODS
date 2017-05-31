@@ -151,7 +151,7 @@ Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «
 
 ### Cas d’étude 1&nbsp;:<br />«&nbsp;ouvrir&nbsp;» des données de santé
 
-SNIIRAM (assurance-maladie), PMSI (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
+SNIIRAM (assurance-maladie), PMSI/T2A (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
 
 Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
 
@@ -401,19 +401,13 @@ Pour contribuer à cette journée&nbsp;:
 
 ### Merci de votre attention
 
-__François Briatte__
+François Briatte
 
-<span style="font-size:0.66em;">European School of Political and Social Sciences<br />
-Université Catholique de Lille<br />
-[francois.briatte@univ-catholille.fr](mailto:francois.briatte@univ-catholille.fr )
-</span>
+[francois.briatte@univ-catholille.fr](mailto:francois.briatte@univ-catholille.fr)
 
-__Célya Gruson-Daniel__
+Célya Gruson-Daniel
 
-<span style="font-size:0.66em;">Centre Virchow-Villermé de santé publique Paris-Berlin<br />
-Université de Technologie de Compiègne<br />
-Université de Laval-Québec)<br />
-[celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)</span>
+[celya.gruson-daniel@parisdescartes.fr](mailto:celya.gruson-daniel@parisdescartes.fr)
 
 Présentation et bibliographie&nbsp;:  
-[`gitpitch.com/celyagd/ODS`](https://gitpitch.com/celyagd/ODS)  
+[`gitpitch.com/celyagd/ODS`](https://gitpitch.com/celyagd/ODS)
