@@ -19,13 +19,15 @@ Co-production de chiffres publics
 ### _Open data_ et santé - une entrée par les acteurs pour :
 
 1. Comprendre les processus en jeu dans l'__ouverture des données de santé__
-2. Observer les dynamiques en cours entre les __différentes parties prenantes__ provenant à la fois de la sphère publique et privée.
+2. Observer les dynamiques en cours entre les __différentes parties prenantes__
 
-Deux cas d'étude :
+---
 
-1/ ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour redéfinir un espace socio-économique
+### Deux cas d'étude
 
-2/ **Épidemium – Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
+1. ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour redéfinir un espace socio-économique
+
+2. **Épidemium – Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
 
 ---
 
@@ -57,15 +59,11 @@ Passage des qualificatifs de :
 
 <img src="./img/data_gouv.png" alt="Data.gouv.fr" style="width: 900px;"/>
 
-
-
 +++
 
 <span style="font-size:0.5em; color:gray">*[Site Roche-17-05-29](http://www.roche.fr/innovation-recherche-medicale/big-data-sante.html)*</span>
 
 <img src="./img/roche_bigdata.png" alt="Roche_bigdata" style="width: 900px;"/>
-
-
 
 ---
 
@@ -98,7 +96,6 @@ Horizons d’attentes fortes autour de ce « monde des données » d’un point 
 
   - *Big data* : maitrise technique, enjeux économiques, avantages compétitifs ;
   - *open data* : enjeu gestionnaire, économique, démocratique.
-
 
 +++
 
@@ -183,9 +180,11 @@ Que signifie chiffres privés/publics dans ce contexte ?  Qu'entendre par « ouv
 
  > Quelles recompositions l'« open big data » provoque dans le domaine de la santé et de sa quantification ?
 
-+++ -->
++++
 
-<!-- +++
+..............
+
++++
 
 ### Open Data & Santé : approche exploratoire et embarquée
 
@@ -237,7 +236,7 @@ Appui sur des travaux récents - ce que les *data* et l’*open* provoquent :
 
 ---
 
-### Cas d’étude 1 : place des acteurs privés dans l'ouverture des données publiques de santé
+### Cas d’étude 1 : « ouvrir » des données publiques de santé
 
 SNIIRAM (assurance-maladie), PMSI (hôpitaux), dossiers médicaux, essais cliniques, prescriptions…
 
