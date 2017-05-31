@@ -25,9 +25,9 @@ Co-production de chiffres publics
 
 ### Deux cas d'étude
 
-1. ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour redéfinir un espace socio-économique
+1. ___Sunshine_ – Faire la « transparence » sur les revenus des médecins__ pour reconfigurer un espace socio-économique
 
-2. **Épidemium – Open Data challenge autour des données du cancer** entre un laboratoire pharmaceutique Roche et un laboratoire collaboratif ouvert La Paillasse ==> création d’un dispositif frontière.
+2. ___Épidemium_ – Travailler sur les _open data_ relatives au cancer__ dans un « laboratoire collaboratif ouvert » : un dispositif-frontière
 
 ---
 
