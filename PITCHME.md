@@ -3,7 +3,7 @@
 
 **[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org) : Calculs, comptabilités et statistiques XVIIe-XXIe siècle**
 
-Co-production de chiffres publics
+Session « Co-production de chiffres publics »
 
 *Journée d’études 31 mai 2017*
 
