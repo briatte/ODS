@@ -159,16 +159,6 @@ Que signifie chiffres privés/publics dans ce contexte&nbsp;? Qu'entendre par «
 
 ### Cas d’étude 1&nbsp;:<br />«&nbsp;ouvrir&nbsp;» des données de santé
 
-Trois initiatives récentes&nbsp;:
-
-- L’__[Initiative Transparence Santé](https://web.archive.org/web/20131103074543/http://www.opendatasante.com:80/)__ <span style="font-size:0.66em;color:#666;">(Briatte et Goëta, 2014)</span>
-- La __[Base Transparence Santé](https://www.transparence.sante.gouv.fr/)__
-- Le «&nbsp;__[Projet Sunshine](https://www.regardscitoyens.org/sunshine/)__&nbsp;» <span style="font-size:0.66em;">(association Regards Citoyens)</span>
-
----
-
-### De quoi parle-t-on&nbsp;?
-
 SNIIRAM (assurance-maladie), PMSI (hôpitaux), tarifs médicaux, essais cliniques, prescriptions…
 
 Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
@@ -237,8 +227,6 @@ Pour les __acteurs publics__&nbsp;:
 - Limiter les conflits d'intérêt
 <!-- médecins/pharma, mais aussi : présidence HAS, Cahuzac Conseil, collusions autour des AMM ou de la fixation des prix des médicaments -->
 
-### Les motivations des acteurs
-
 Pour les __acteurs privés__&nbsp;:
 
 - __Industriels installés__&nbsp;: préserver la rentabilité
@@ -257,12 +245,14 @@ Pour les __acteurs privés__&nbsp;:
 ---
 
 <span style="font-size:0.66em;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 2013</span>
+<!-- obj. affiché n°1 : rationaliser les dépenses -->
 
 <img src="./img/its_nov_2013.png" alt="Initiative_Transparence_Santé" style="width:100%;"/>
 
 ---
 
 <span style="font-size:0.66em;color:#666;"><a href="https://web.archive.org/web/20140310125109/http://www.opendatasante.com/">Initiative Transparence Santé</a>, 2014</span>
+<!-- objectif affiché n°2 : éviter les accidents sanitaires (Servier reprend l'argument dans sa procédure) -->
 
 <img src="./img/its_cartogramme_mediator.png" alt="ITS_Mediator" style="width:100%"/>
 
@@ -270,21 +260,25 @@ Pour les __acteurs privés__&nbsp;:
 
 ---
 
-<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Transparence Santé</a> (2014)</span>
+<span style="font-size:0.66em;"><a href="https://www.transparence.sante.gouv.fr/">Base Transparence Santé</a> (2014)</span>
 
 <img src="./img/transparence_sante.png" alt="Transparence_Santé" style="width:100%;"/>
 
 ---
 
-<span style="font-size:0.66em;"><a href="http://www.formindep.org/La-transparence-est-une-course-de.html">Formindep</a> (2016)</span>
+<span style="font-size:0.66em;"><a href="http://www.formindep.org/La-transparence-est-une-course-de.html">Actions du Formindep</a> (2016)</span>
 
 <img src="./img/action_formindep.png" alt="Chronologie_Formindep" style="width:100%;"/>
 
 ---
 
-<span style="font-size:0.66em;"><a href="https://www.regardscitoyens.org/sunshine/">Projet «&nbsp;Sunshine&nbsp;»</a> (2015)</span>
+<span style="font-size:0.66em;">Regards Citoyens&nbsp;: <a href="https://www.regardscitoyens.org/sunshine/">Projet «&nbsp;Sunshine&nbsp;»</a> (2015)</span>
 
 <img src="./img/sunshine_rc.png" alt="Sunshine_RC" style="width:100%;"/>
+
+---
+
+
 
 ---
 
