@@ -1,7 +1,8 @@
 ### L’ouverture des données de santé&nbsp;: une entrée par les acteurs
 
 
-Journée d’études «&nbsp;[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org)&nbsp;», 31 mai 2017
+Journée d’études «&nbsp;[Chiffres privés, chiffres publics](https://chiffres.hypotheses.org)&nbsp;»  
+31 mai 2017
 
 Session «&nbsp;Co-production de chiffres publics&nbsp;»
 
