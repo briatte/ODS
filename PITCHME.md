@@ -173,6 +173,18 @@ Des données privées difficiles à «&nbsp;ouvrir&nbsp;»&nbsp;:
 
 ---
 
+### L'accès aux données dans les agences publiques
+
+Un __régime d'accès fragmenté__ en miroir de la gouvernance du système de santé&nbsp;:
+<!-- régime bismarckien universalisé -->
+
+<!-- HAS = ex-ANAES, ANSM = ex-AFSSAPS, ARS = HPST (préfig. Juppé) -->
+- Accès (DGS, HAS, ANSM, ARS, CEPS…) ≠ Accès (CNAM, URCAM)
+- Autorisations requises : CADA et CNIL <span style="font-size: 0.66em;">(CCTIRS, IDS)</span>
+<!-- CCTIRS = Comité consultatif sur le traitement de l’information en matière de recherche dans le domaine de la santé -->
+
+---
+
 ### L'accès aux données dans l'industrie sanitaire
 
 Un __système de collecte parallèle__ à celui de l'État&nbsp;:
@@ -181,6 +193,7 @@ Un __système de collecte parallèle__ à celui de l'État&nbsp;:
 - Démarchage des __cabinets médicaux__ <span style="font-size: 0.66em;">(et des pharmacies)</span>
 - Contractualisation avec les __professionnels__
 - Demandes CADA auprès des __agences sanitaires__
+<!-- Pierre-Louis Bras (IGAS), rapp. gouvernance et utilisation des données de santé, 2013 : les industries n'ont pas besoin des données, elles les ont déjà ! -->
 
 ---
 
@@ -189,7 +202,7 @@ Un __système de collecte parallèle__ à celui de l'État&nbsp;:
 Comment faire la transparence sur les __revenus des professionnels de santé__&nbsp;?
 <!-- médecins, mais aussi... présidence de la HAS -->
 
-- Sources publiques&nbsp;: __rapports IGAS__
+- Sources publiques&nbsp;: __rapports IGAS, DREES, HCAAM__
 - Sources privées&nbsp;: __déclarations des laboratoires__
 
 +++
